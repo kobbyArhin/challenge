@@ -1,0 +1,812 @@
+Repository,PR Number,PR Title,Created At,URL
+FlorianWoelki/obsidian-symbols-prettifier,7,Fix constructor being converted to undefined,2023-08-23 14:17:59,https://github.com/FlorianWoelki/obsidian-symbols-prettifier/pull/7
+mlc-ai/web-stable-diffusion,1,Add tools for RPC testing,2023-03-12 18:35:58,https://github.com/mlc-ai/web-stable-diffusion/pull/1
+mlc-ai/web-stable-diffusion,2,[Scheduler] Multistep DPM-solver for Python side,2023-03-12 19:51:32,https://github.com/mlc-ai/web-stable-diffusion/pull/2
+mlc-ai/web-stable-diffusion,3,[Web] Multistep DPM-solver for web side,2023-03-12 22:12:26,https://github.com/mlc-ai/web-stable-diffusion/pull/3
+mlc-ai/web-stable-diffusion,4,"Walkthrough notebook and README with ""get started""",2023-03-13 19:30:53,https://github.com/mlc-ai/web-stable-diffusion/pull/4
+mlc-ai/web-stable-diffusion,5,refact: walkthrough Linuxified; auto-detect target for build,2023-03-14 20:03:29,https://github.com/mlc-ai/web-stable-diffusion/pull/5
+mlc-ai/web-stable-diffusion,6,[Debug] Add RPC lib compare tool,2023-03-15 00:08:05,https://github.com/mlc-ai/web-stable-diffusion/pull/6
+mlc-ai/web-stable-diffusion,7,[Database] Update database with no spatial block loop unroll,2023-03-15 00:19:34,https://github.com/mlc-ai/web-stable-diffusion/pull/7
+mlc-ai/web-stable-diffusion,9,[Notebook] TVMCon 2023 day 1 tutorial,2023-03-16 00:29:01,https://github.com/mlc-ai/web-stable-diffusion/pull/9
+mlc-ai/web-stable-diffusion,10,[Notebook] Merge walkthrough.ipynb and the TVMCon notebook,2023-03-17 00:47:21,https://github.com/mlc-ai/web-stable-diffusion/pull/10
+mlc-ai/web-stable-diffusion,12,Fix typo in stable_diffusion.js,2023-03-17 15:42:47,https://github.com/mlc-ai/web-stable-diffusion/pull/12
+mlc-ai/web-stable-diffusion,14,Leverage async shader loading,2023-03-22 01:55:35,https://github.com/mlc-ai/web-stable-diffusion/pull/14
+mlc-ai/web-stable-diffusion,15,Remove gputil dependency and minor cleanup,2023-03-28 22:28:23,https://github.com/mlc-ai/web-stable-diffusion/pull/15
+mlc-ai/web-stable-diffusion,19,"Fix typo with double ""the""",2023-04-17 13:30:59,https://github.com/mlc-ai/web-stable-diffusion/pull/19
+mlc-ai/web-stable-diffusion,20,Update README.md,2023-04-17 18:03:00,https://github.com/mlc-ai/web-stable-diffusion/pull/20
+mlc-ai/web-stable-diffusion,23,Fixes per changes in mlc-ai/relax,2023-04-22 03:58:28,https://github.com/mlc-ai/web-stable-diffusion/pull/23
+mlc-ai/web-stable-diffusion,29,Support importing SD 2.1,2023-05-09 10:42:32,https://github.com/mlc-ai/web-stable-diffusion/pull/29
+mlc-ai/web-stable-diffusion,42,Fix database to include the purity field,2023-06-20 01:54:42,https://github.com/mlc-ai/web-stable-diffusion/pull/42
+mlc-ai/web-stable-diffusion,47,Update README.md fix minor error typo,2023-07-18 10:20:01,https://github.com/mlc-ai/web-stable-diffusion/pull/47
+mlc-ai/web-stable-diffusion,51,Added windows and Macos commands respectively ,2023-08-21 18:46:33,https://github.com/mlc-ai/web-stable-diffusion/pull/51
+mlc-ai/web-stable-diffusion,52,Add history view with downloads to demo application,2023-08-30 20:38:54,https://github.com/mlc-ai/web-stable-diffusion/pull/52
+metaphorsystems/metaphor-python,1,Add API Reference and search + find_similar docstrings,2023-07-31 22:56:55,https://github.com/metaphorsystems/metaphor-python/pull/1
+metaphorsystems/metaphor-python,2,Fixes api method documentation.,2023-08-02 17:20:20,https://github.com/metaphorsystems/metaphor-python/pull/2
+metaphorsystems/metaphor-python,3,Fixed small typo in Search Request example,2023-08-15 16:50:55,https://github.com/metaphorsystems/metaphor-python/pull/3
+metaphorsystems/metaphor-python,5,fixed incorrect description of type arg in metaphor.search,2023-08-26 21:17:35,https://github.com/metaphorsystems/metaphor-python/pull/5
+MikaelJG/textract,1,"feat: add keywords support, and more",2023-08-28 18:31:02,https://github.com/MikaelJG/textract/pull/1
+plantoncloud/kube-client-go-aws-credential-plugin,1,implemented functionality to generate credentials,2023-08-30 09:42:03,https://github.com/plantoncloud/kube-client-go-aws-credential-plugin/pull/1
+dantebarbieri/pi-picture-frame,3,Add code from ChatGPT,2023-07-11 02:57:45,https://github.com/dantebarbieri/pi-picture-frame/pull/3
+chitalian/gptask,2,Fix: recursive/glob support,2023-07-24 18:09:25,https://github.com/chitalian/gptask/pull/2
+bancaditalia/black-it,1,"readme: change doc description, update link to black-it logo, add a pypi badge",2022-05-25 09:53:11,https://github.com/bancaditalia/black-it/pull/1
+bancaditalia/black-it,2,[WIP] Samplers refactoring,2022-06-10 12:59:52,https://github.com/bancaditalia/black-it/pull/2
+bancaditalia/black-it,3,Change random seed interface,2022-06-11 15:34:46,https://github.com/bancaditalia/black-it/pull/3
+bancaditalia/black-it,4,[WIP] Update `BaseSampler` interface,2022-06-12 19:28:44,https://github.com/bancaditalia/black-it/pull/4
+bancaditalia/black-it,5,workflows/docs: added a test on a Jupyter notebook example,2022-06-20 16:20:36,https://github.com/bancaditalia/black-it/pull/5
+bancaditalia/black-it,6,Improve typing of parameter bounds and precisions ,2022-06-20 17:28:06,https://github.com/bancaditalia/black-it/pull/6
+bancaditalia/black-it,7,updated version in toml and updated lock file,2022-06-21 08:30:32,https://github.com/bancaditalia/black-it/pull/7
+bancaditalia/black-it,8,JOSS paper minor improvements,2022-06-28 19:43:14,https://github.com/bancaditalia/black-it/pull/8
+bancaditalia/black-it,9,dependencies: regenerate poetry.lock,2022-08-25 14:00:07,https://github.com/bancaditalia/black-it/pull/9
+bancaditalia/black-it,10,Improved documentation,2022-08-29 15:32:04,https://github.com/bancaditalia/black-it/pull/10
+bancaditalia/black-it,11,add codecoverage integration,2022-08-29 15:46:33,https://github.com/bancaditalia/black-it/pull/11
+bancaditalia/black-it,12,examples: add basic calibration of AR model written in Java,2022-09-05 15:51:39,https://github.com/bancaditalia/black-it/pull/12
+bancaditalia/black-it,13,Simplification of CIs,2022-09-08 12:45:47,https://github.com/bancaditalia/black-it/pull/13
+bancaditalia/black-it,14,chore: update ipywidgets version in pyproject.toml to ^8.0.0.,2022-09-09 10:23:41,https://github.com/bancaditalia/black-it/pull/14
+bancaditalia/black-it,15,CIs: add upload of codecoverage to Codecov,2022-09-09 11:55:11,https://github.com/bancaditalia/black-it/pull/15
+bancaditalia/black-it,16,readme: add Codecov badge,2022-09-09 12:13:22,https://github.com/bancaditalia/black-it/pull/16
+bancaditalia/black-it,17,Particle swarm sampler,2022-09-28 08:30:19,https://github.com/bancaditalia/black-it/pull/17
+bancaditalia/black-it,18,Update poetry.lock,2022-09-28 08:56:42,https://github.com/bancaditalia/black-it/pull/18
+bancaditalia/black-it,19,MCS code,2022-10-14 13:24:20,https://github.com/bancaditalia/black-it/pull/19
+bancaditalia/black-it,20,MCS code with comments,2022-10-27 10:13:48,https://github.com/bancaditalia/black-it/pull/20
+bancaditalia/black-it,21,Update paper-md to include JATS code for subfigures,2022-11-03 10:37:31,https://github.com/bancaditalia/black-it/pull/21
+bancaditalia/black-it,22,minor changes in paper/bib,2022-11-03 13:45:01,https://github.com/bancaditalia/black-it/pull/22
+bancaditalia/black-it,23,Add joss references,2022-11-04 10:24:09,https://github.com/bancaditalia/black-it/pull/23
+bancaditalia/black-it,24,add filters before loss function computation,2022-11-18 16:43:05,https://github.com/bancaditalia/black-it/pull/24
+bancaditalia/black-it,25,calibrator: add sim_length param to Calibrator constructor,2022-11-21 13:56:10,https://github.com/bancaditalia/black-it/pull/25
+bancaditalia/black-it,26,fix: add coordinate_filters to concrete loss classes,2022-11-21 14:53:12,https://github.com/bancaditalia/black-it/pull/26
+bancaditalia/black-it,27,Use tables to append to series_samp array,2022-11-22 11:33:31,https://github.com/bancaditalia/black-it/pull/27
+bancaditalia/black-it,28,Add CORS sampler,2022-11-30 13:32:48,https://github.com/bancaditalia/black-it/pull/28
+bancaditalia/black-it,29,Improve best batch and random forest classes,2022-11-30 14:12:19,https://github.com/bancaditalia/black-it/pull/29
+bancaditalia/black-it,30,Add xgboost sampler,2022-12-11 15:29:09,https://github.com/bancaditalia/black-it/pull/30
+bancaditalia/black-it,31,Refactoring and improvement of msm covariance matrices,2022-12-12 15:34:22,https://github.com/bancaditalia/black-it/pull/31
+bancaditalia/black-it,32,bump version to 0.2.0,2022-12-21 10:45:37,https://github.com/bancaditalia/black-it/pull/32
+bancaditalia/black-it,33,samplers: add MLSurrogateSampler base class,2022-12-21 15:24:25,https://github.com/bancaditalia/black-it/pull/33
+bancaditalia/black-it,34,Update poetry.lock,2023-01-03 10:57:27,https://github.com/bancaditalia/black-it/pull/34
+bancaditalia/black-it,35,xgboost: add clipping of loss values to the float32 limits,2023-01-13 10:31:18,https://github.com/bancaditalia/black-it/pull/35
+bancaditalia/black-it,37,bump version to 0.2.1,2023-02-06 09:48:26,https://github.com/bancaditalia/black-it/pull/37
+bancaditalia/black-it,38,"losses: add likelihood loss and test, improve base loss",2023-03-06 11:05:17,https://github.com/bancaditalia/black-it/pull/38
+bancaditalia/black-it,39,Add `BaseSeedable` class.,2023-03-16 12:32:09,https://github.com/bancaditalia/black-it/pull/39
+bancaditalia/black-it,40,chore: poetry.lock update,2023-03-16 14:03:57,https://github.com/bancaditalia/black-it/pull/40
+bancaditalia/black-it,41,`tox.ini` refactoring,2023-03-16 15:17:30,https://github.com/bancaditalia/black-it/pull/41
+bancaditalia/black-it,42,chore: update PR request template,2023-03-16 15:26:31,https://github.com/bancaditalia/black-it/pull/42
+bancaditalia/black-it,43,Update copyright notice for year 2023,2023-03-16 15:57:53,https://github.com/bancaditalia/black-it/pull/43
+bancaditalia/black-it,44,Fix spelling errors in `HISTORY.md` returned by `scripts/spell-check.sh -r`,2023-03-16 16:19:11,https://github.com/bancaditalia/black-it/pull/44
+bancaditalia/black-it,45,Add extras mechanism for finer-grained dependency selection,2023-03-16 19:09:58,https://github.com/bancaditalia/black-it/pull/45
+bancaditalia/black-it,46,Upgrade dependencies,2023-03-17 14:20:57,https://github.com/bancaditalia/black-it/pull/46
+bancaditalia/black-it,47,Enable CI on `macos-latest`,2023-03-17 19:59:37,https://github.com/bancaditalia/black-it/pull/47
+bancaditalia/black-it,48,Enable CI on `windows-latest`,2023-03-17 20:10:43,https://github.com/bancaditalia/black-it/pull/48
+bancaditalia/black-it,50,Support Python 3.11,2023-03-18 17:33:25,https://github.com/bancaditalia/black-it/pull/50
+bancaditalia/black-it,51,Fix tox python env id,2023-03-18 18:05:26,https://github.com/bancaditalia/black-it/pull/51
+bancaditalia/black-it,52,Introduce `BaseScheduler` abstraction,2023-03-19 23:27:50,https://github.com/bancaditalia/black-it/pull/52
+bancaditalia/black-it,53,Add `RLScheduler`,2023-03-21 16:32:25,https://github.com/bancaditalia/black-it/pull/53
+bancaditalia/black-it,54,Chore/upgrade ipywidgets version,2023-03-27 17:27:22,https://github.com/bancaditalia/black-it/pull/54
+bancaditalia/black-it,55,test: remove hypothesis deadline in test_seedable tests,2023-03-28 08:34:30,https://github.com/bancaditalia/black-it/pull/55
+bancaditalia/black-it,56,Fix mypy tox task,2023-03-28 09:43:44,https://github.com/bancaditalia/black-it/pull/56
+bancaditalia/black-it,58,Add simple working example of basic TCN / MomentNetwork structure,2023-07-10 13:57:17,https://github.com/bancaditalia/black-it/pull/58
+bancaditalia/black-it,59,Upgrade dependencies and minor updates,2023-08-18 13:05:08,https://github.com/bancaditalia/black-it/pull/59
+bancaditalia/black-it,60,build: upgrade dev dependency versions,2023-08-24 14:01:22,https://github.com/bancaditalia/black-it/pull/60
+bancaditalia/black-it,62,Migrate to Ruff,2023-08-24 15:34:04,https://github.com/bancaditalia/black-it/pull/62
+bancaditalia/black-it,63,Skip plotting tests on Windows due to flakiness,2023-09-01 11:03:38,https://github.com/bancaditalia/black-it/pull/63
+bancaditalia/black-it,64,test: skip TestPlotConvergence test on Windows,2023-09-04 09:35:37,https://github.com/bancaditalia/black-it/pull/64
+bancaditalia/black-it,66,ci: fix flaky tox command on Windows platform (fix #65),2023-09-04 10:40:11,https://github.com/bancaditalia/black-it/pull/66
+AGnias47/AGnias47.github.io,2,Chatgpt,2023-06-12 00:45:42,https://github.com/AGnias47/AGnias47.github.io/pull/2
+mcagov/beacons,1,Initial Terraform configuration,2021-01-20 11:18:09,https://github.com/mcagov/beacons/pull/1
+mcagov/beacons,2,WIP: GitHub Actions CI/CD,2021-01-22 09:32:13,https://github.com/mcagov/beacons/pull/2
+mcagov/beacons,3,Add GitHub actions pipeline for terraform apply,2021-01-26 14:02:41,https://github.com/mcagov/beacons/pull/3
+mcagov/beacons,4,Update terraform provider for CI/CD,2021-01-26 16:01:27,https://github.com/mcagov/beacons/pull/4
+mcagov/beacons,5,Restrict deployment to main branch,2021-01-26 17:02:45,https://github.com/mcagov/beacons/pull/5
+mcagov/beacons,6,Feature/terraform uses commit hash tagged containers,2021-01-27 15:50:33,https://github.com/mcagov/beacons/pull/6
+mcagov/beacons,7,Feature/terraform uses commit hash tagged containers,2021-01-27 16:20:37,https://github.com/mcagov/beacons/pull/7
+mcagov/beacons,8,Updates to README for deployment of application,2021-01-28 10:36:29,https://github.com/mcagov/beacons/pull/8
+mcagov/beacons,9,Add Architectural Decision Records into project,2021-01-28 13:09:12,https://github.com/mcagov/beacons/pull/9
+mcagov/beacons,10,Add ADR for for technology choices,2021-01-28 16:17:36,https://github.com/mcagov/beacons/pull/10
+mcagov/beacons,11,Reduce vCPU and memory in ECS tasks,2021-01-28 16:42:53,https://github.com/mcagov/beacons/pull/11
+mcagov/beacons,12,Add prettier badge,2021-01-28 17:19:17,https://github.com/mcagov/beacons/pull/12
+mcagov/beacons,13,Add RDS terraform configuration,2021-01-28 20:46:59,https://github.com/mcagov/beacons/pull/13
+mcagov/beacons,16,Bump husky from 4.3.8 to 5.0.9,2021-02-09 07:07:50,https://github.com/mcagov/beacons/pull/16
+mcagov/beacons,18,Adr/form validation,2021-02-19 11:38:46,https://github.com/mcagov/beacons/pull/18
+mcagov/beacons,19,Bump husky from 4.3.8 to 5.1.0,2021-02-22 08:06:46,https://github.com/mcagov/beacons/pull/19
+mcagov/beacons,20,Updates following our ADR discussion,2021-02-24 19:58:52,https://github.com/mcagov/beacons/pull/20
+mcagov/beacons,21,Bump husky from 4.3.8 to 5.1.3,2021-03-02 07:06:21,https://github.com/mcagov/beacons/pull/21
+mcagov/beacons,22,Adr/cypress tests,2021-03-03 15:54:44,https://github.com/mcagov/beacons/pull/22
+mcagov/beacons,23,WIP: Update deployment pipeline for development to use dev workspace ,2021-03-09 12:55:54,https://github.com/mcagov/beacons/pull/23
+mcagov/beacons,24,Create staging deployment file,2021-03-11 12:25:48,https://github.com/mcagov/beacons/pull/24
+mcagov/beacons,25,Setup our infrastructure to allow for multiple environments,2021-03-15 18:07:13,https://github.com/mcagov/beacons/pull/25
+mcagov/beacons,26,Staging deployment through CI,2021-03-16 18:08:12,https://github.com/mcagov/beacons/pull/26
+mcagov/beacons,27,Add adr about infra and env changes,2021-03-22 11:18:56,https://github.com/mcagov/beacons/pull/27
+mcagov/beacons,28,Bump husky from 4.3.8 to 6.0.0,2021-03-29 08:36:47,https://github.com/mcagov/beacons/pull/28
+mcagov/beacons,30,Change webapp healthcheck protocol to TCP from http,2021-04-20 10:55:07,https://github.com/mcagov/beacons/pull/30
+mcagov/beacons,31,Tags,2021-04-20 11:45:19,https://github.com/mcagov/beacons/pull/31
+mcagov/beacons,32,Update ingress inbound security group onto the ecs tasks security group,2021-04-27 08:52:17,https://github.com/mcagov/beacons/pull/32
+mcagov/beacons,33,Frontend ssl persistent,2021-04-28 09:17:39,https://github.com/mcagov/beacons/pull/33
+mcagov/beacons,34,Bump prettier from 2.2.1 to 2.3.0,2021-05-10 09:22:24,https://github.com/mcagov/beacons/pull/34
+mcagov/beacons,35,Bump hosted-git-info from 2.8.8 to 2.8.9,2021-05-11 23:31:36,https://github.com/mcagov/beacons/pull/35
+mcagov/beacons,36,Bump actions/setup-node from 2 to 2.1.5,2021-05-12 05:58:47,https://github.com/mcagov/beacons/pull/36
+mcagov/beacons,37,Bump actions/checkout from 2 to 2.3.4,2021-05-12 05:58:52,https://github.com/mcagov/beacons/pull/37
+mcagov/beacons,38,Bump hashicorp/setup-terraform from 1 to 1.3.2,2021-05-12 05:58:57,https://github.com/mcagov/beacons/pull/38
+mcagov/beacons,39,Authorisation architecture ADR,2021-05-27 10:25:55,https://github.com/mcagov/beacons/pull/39
+mcagov/beacons,40,Env vars,2021-05-27 14:49:46,https://github.com/mcagov/beacons/pull/40
+mcagov/beacons,41,Adds variables for next auth,2021-06-02 16:02:26,https://github.com/mcagov/beacons/pull/41
+mcagov/beacons,42,Setup session store in Elasticache,2021-06-02 16:04:13,https://github.com/mcagov/beacons/pull/42
+mcagov/beacons,43,Bump prettier from 2.3.0 to 2.3.1,2021-06-07 07:25:47,https://github.com/mcagov/beacons/pull/43
+mcagov/beacons,44,add b2c signup flow,2021-06-14 10:52:27,https://github.com/mcagov/beacons/pull/44
+mcagov/beacons,45,Bump pretty-quick from 3.1.0 to 3.1.1,2021-06-17 21:06:15,https://github.com/mcagov/beacons/pull/45
+mcagov/beacons,46,Bump set-getter from 0.1.0 to 0.1.1,2021-06-21 21:39:35,https://github.com/mcagov/beacons/pull/46
+mcagov/beacons,47,Bump hashicorp/aws from 3.43.0 to 3.46.0 in /terraform,2021-06-24 21:07:28,https://github.com/mcagov/beacons/pull/47
+mcagov/beacons,48,Bump hashicorp/aws from 3.43.0 to 3.47.0 in /terraform,2021-06-25 21:07:05,https://github.com/mcagov/beacons/pull/48
+mcagov/beacons,49,Bump prettier from 2.3.1 to 2.3.2,2021-06-28 21:07:27,https://github.com/mcagov/beacons/pull/49
+mcagov/beacons,50,Bump husky from 4.3.8 to 7.0.0,2021-07-01 21:08:47,https://github.com/mcagov/beacons/pull/50
+mcagov/beacons,51,Bump hashicorp/aws from 3.43.0 to 3.48.0 in /terraform,2021-07-02 21:06:01,https://github.com/mcagov/beacons/pull/51
+mcagov/beacons,52,Bump husky from 4.3.8 to 7.0.1,2021-07-06 21:08:19,https://github.com/mcagov/beacons/pull/52
+mcagov/beacons,53,Bump hashicorp/aws from 3.43.0 to 3.49.0 in /terraform,2021-07-09 21:06:55,https://github.com/mcagov/beacons/pull/53
+mcagov/beacons,54,Bump hashicorp/aws from 3.43.0 to 3.50.0 in /terraform,2021-07-16 14:27:23,https://github.com/mcagov/beacons/pull/54
+mcagov/beacons,55,Bump hashicorp/aws from 3.50.0 to 3.51.0 in /terraform,2021-07-23 21:06:24,https://github.com/mcagov/beacons/pull/55
+mcagov/beacons,56,Bump hashicorp/aws from 3.51.0 to 3.52.0 in /terraform,2021-07-30 21:07:48,https://github.com/mcagov/beacons/pull/56
+mcagov/beacons,57,Bump hashicorp/aws from 3.51.0 to 3.53.0 in /terraform,2021-08-06 14:19:39,https://github.com/mcagov/beacons/pull/57
+mcagov/beacons,58,Bump path-parse from 1.0.6 to 1.0.7,2021-08-13 00:10:03,https://github.com/mcagov/beacons/pull/58
+mcagov/beacons,59,Bump hashicorp/aws from 3.53.0 to 3.54.0 in /terraform,2021-08-13 07:23:57,https://github.com/mcagov/beacons/pull/59
+mcagov/beacons,60,Rds backups,2021-08-19 15:26:52,https://github.com/mcagov/beacons/pull/60
+mcagov/beacons,61,Bump hashicorp/aws from 3.53.0 to 3.55.0 in /terraform,2021-08-20 21:06:18,https://github.com/mcagov/beacons/pull/61
+mcagov/beacons,62,"RDS Backups, Alerts and Health checks",2021-08-26 08:42:21,https://github.com/mcagov/beacons/pull/62
+mcagov/beacons,63,Bump hashicorp/aws from 3.53.0 to 3.56.0 in /terraform,2021-08-27 08:23:42,https://github.com/mcagov/beacons/pull/63
+mcagov/beacons,64,Added API service health check to r53 us-east and dashboard widget,2021-09-02 15:56:36,https://github.com/mcagov/beacons/pull/64
+mcagov/beacons,65,Bump hashicorp/aws from 3.56.0 to 3.57.0 in /terraform,2021-09-03 21:07:10,https://github.com/mcagov/beacons/pull/65
+mcagov/beacons,66,added enable_alerts to staging workflow as a configurable option to e…,2021-09-09 08:57:51,https://github.com/mcagov/beacons/pull/66
+mcagov/beacons,67,Health alarm fix,2021-09-09 15:27:18,https://github.com/mcagov/beacons/pull/67
+mcagov/beacons,68,Bump prettier from 2.3.2 to 2.4.0,2021-09-09 21:06:49,https://github.com/mcagov/beacons/pull/68
+mcagov/beacons,69,changed default behaviour for cw alarms for missing data to treat as…,2021-09-10 09:15:03,https://github.com/mcagov/beacons/pull/69
+mcagov/beacons,70,Bump hashicorp/aws from 3.57.0 to 3.58.0 in /terraform,2021-09-10 21:05:59,https://github.com/mcagov/beacons/pull/70
+mcagov/beacons,71,Bump prettier from 2.3.2 to 2.4.1,2021-09-16 21:11:08,https://github.com/mcagov/beacons/pull/71
+mcagov/beacons,72,Set up GovNotify env vars to enable feedback form email,2021-09-17 14:01:56,https://github.com/mcagov/beacons/pull/72
+mcagov/beacons,73,Bump hashicorp/aws from 3.57.0 to 3.59.0 in /terraform,2021-09-17 21:08:37,https://github.com/mcagov/beacons/pull/73
+mcagov/beacons,74,increased RDS spec and storage for all environments,2021-09-20 13:01:24,https://github.com/mcagov/beacons/pull/74
+mcagov/beacons,75,Bump semver-regex from 3.1.2 to 3.1.3,2021-09-21 01:38:23,https://github.com/mcagov/beacons/pull/75
+mcagov/beacons,76,Ecs fixes,2021-09-21 16:08:44,https://github.com/mcagov/beacons/pull/76
+mcagov/beacons,77,Maintenance page,2021-09-23 13:32:14,https://github.com/mcagov/beacons/pull/77
+mcagov/beacons,78,Bump aws-actions/configure-aws-credentials from 1.5.9 to 1.5.11,2021-09-23 21:06:53,https://github.com/mcagov/beacons/pull/78
+mcagov/beacons,79,Bump hashicorp/aws from 3.57.0 to 3.60.0 in /terraform,2021-09-24 07:54:50,https://github.com/mcagov/beacons/pull/79
+mcagov/beacons,80,Bump hashicorp/aws from 3.57.0 to 3.61.0 in /terraform,2021-10-01 21:08:11,https://github.com/mcagov/beacons/pull/80
+mcagov/beacons,81,Trello Alerts,2021-10-07 16:20:02,https://github.com/mcagov/beacons/pull/81
+mcagov/beacons,82,Bump hashicorp/aws from 3.57.0 to 3.62.0 in /terraform,2021-10-08 12:19:05,https://github.com/mcagov/beacons/pull/82
+mcagov/beacons,83,Bump actions/setup-node from 2.4.0 to 2.4.1,2021-10-08 21:05:31,https://github.com/mcagov/beacons/pull/83
+mcagov/beacons,84,Bump hashicorp/aws from 3.57.0 to 3.63.0 in /terraform,2021-10-14 21:07:11,https://github.com/mcagov/beacons/pull/84
+mcagov/beacons,85,Bump actions/checkout from 2.3.4 to 2.3.5,2021-10-15 21:07:41,https://github.com/mcagov/beacons/pull/85
+mcagov/beacons,86,Bump actions/checkout from 2.3.4 to 2.4.0,2021-11-02 21:09:12,https://github.com/mcagov/beacons/pull/86
+mcagov/beacons,87,Bump hashicorp/aws from 3.57.0 to 3.64.0 in /terraform,2021-11-04 21:20:43,https://github.com/mcagov/beacons/pull/87
+mcagov/beacons,88,Bump hashicorp/aws from 3.57.0 to 3.64.2 in /terraform,2021-11-05 21:08:08,https://github.com/mcagov/beacons/pull/88
+mcagov/beacons,89,ADR: ElasticSearch,2021-11-10 16:32:13,https://github.com/mcagov/beacons/pull/89
+mcagov/beacons,90,Bump hashicorp/aws from 3.57.0 to 3.65.0 in /terraform,2021-11-12 21:08:30,https://github.com/mcagov/beacons/pull/90
+mcagov/beacons,91,Bump pretty-quick from 3.1.1 to 3.1.2,2021-11-16 21:08:30,https://github.com/mcagov/beacons/pull/91
+mcagov/beacons,92,🎸 feat: Add cron to back up database to csv,2021-11-19 16:02:18,https://github.com/mcagov/beacons/pull/92
+mcagov/beacons,93,Bump hashicorp/aws from 3.57.0 to 3.66.0 in /terraform,2021-11-19 21:07:14,https://github.com/mcagov/beacons/pull/93
+mcagov/beacons,94,Bump aws-actions/configure-aws-credentials from 1.5.9 to 1.6.0,2021-11-24 21:12:40,https://github.com/mcagov/beacons/pull/94
+mcagov/beacons,95,Bump prettier from 2.3.2 to 2.5.0,2021-11-25 21:07:31,https://github.com/mcagov/beacons/pull/95
+mcagov/beacons,96,Bump hashicorp/aws from 3.57.0 to 3.67.0 in /terraform,2021-11-26 21:07:03,https://github.com/mcagov/beacons/pull/96
+mcagov/beacons,97,Bump actions/setup-node from 2.4.0 to 2.5.0,2021-11-29 21:11:33,https://github.com/mcagov/beacons/pull/97
+mcagov/beacons,98,Bump hashicorp/aws from 3.57.0 to 3.68.0 in /terraform,2021-12-02 21:07:06,https://github.com/mcagov/beacons/pull/98
+mcagov/beacons,99,Bump prettier from 2.3.2 to 2.5.1,2021-12-06 21:09:19,https://github.com/mcagov/beacons/pull/99
+mcagov/beacons,100,Bump  from 3.57.0 to 3.69.0 in /terraform,2021-12-10 21:08:29,https://github.com/mcagov/beacons/pull/100
+mcagov/beacons,101,Bump  from 3.57.0 to 3.70.0 in /terraform,2021-12-17 21:07:11,https://github.com/mcagov/beacons/pull/101
+mcagov/beacons,102,Bump pretty-quick from 3.1.1 to 3.1.3,2021-12-22 21:08:27,https://github.com/mcagov/beacons/pull/102
+mcagov/beacons,103,Bump actions/setup-node from 2.4.0 to 2.5.1,2021-12-28 21:06:15,https://github.com/mcagov/beacons/pull/103
+mcagov/beacons,104,Bump hashicorp/aws from 3.57.0 to 3.71.0 in /terraform,2022-01-07 21:05:46,https://github.com/mcagov/beacons/pull/104
+mcagov/beacons,105,Bump hashicorp/aws from 3.57.0 to 3.72.0 in /terraform,2022-01-14 21:11:03,https://github.com/mcagov/beacons/pull/105
+mcagov/beacons,106,Bump aws-actions/configure-aws-credentials from 1.5.9 to 1.6.1,2022-01-18 21:09:35,https://github.com/mcagov/beacons/pull/106
+mcagov/beacons,107,Bump hashicorp/aws from 3.57.0 to 3.73.0 in /terraform,2022-01-21 21:15:25,https://github.com/mcagov/beacons/pull/107
+mcagov/beacons,108,Create test Opensearch configuration,2022-01-24 16:28:53,https://github.com/mcagov/beacons/pull/108
+mcagov/beacons,109,Bump hashicorp/aws from 3.57.0 to 3.74.0 in /terraform,2022-01-28 21:09:10,https://github.com/mcagov/beacons/pull/109
+mcagov/beacons,110,Bump lorenzoaiello/rds-alarms/aws from 2.1.0 to 2.2.0 in /terraform,2022-02-01 21:07:12,https://github.com/mcagov/beacons/pull/110
+mcagov/beacons,111,Bump docker/login-action from 1.10.0 to 1.12.0,2022-02-07 21:08:36,https://github.com/mcagov/beacons/pull/111
+mcagov/beacons,112,Bump docker/build-push-action from 2.7.0 to 2.9.0,2022-02-07 21:08:39,https://github.com/mcagov/beacons/pull/112
+mcagov/beacons,113,Bump hashicorp/aws from 3.57.0 to 3.74.1 in /terraform,2022-02-07 21:09:22,https://github.com/mcagov/beacons/pull/113
+mcagov/beacons,114,Bump hashicorp/aws from 3.57.0 to 4.0.0 in /terraform,2022-02-10 21:22:53,https://github.com/mcagov/beacons/pull/114
+mcagov/beacons,115,Bump hashicorp/aws from 3.57.0 to 4.1.0 in /terraform,2022-02-15 21:10:09,https://github.com/mcagov/beacons/pull/115
+mcagov/beacons,116,Bump docker/login-action from 1.10.0 to 1.13.0,2022-02-17 21:08:16,https://github.com/mcagov/beacons/pull/116
+mcagov/beacons,117,Monorepo,2022-02-18 10:48:53,https://github.com/mcagov/beacons/pull/117
+mcagov/beacons,118,Bump nanoid from 3.1.22 to 3.3.1 in /service/src/main/backoffice,2022-02-18 11:04:46,https://github.com/mcagov/beacons/pull/118
+mcagov/beacons,119,Bump follow-redirects from 1.13.3 to 1.14.9 in /service/src/main/backoffice,2022-02-18 11:04:53,https://github.com/mcagov/beacons/pull/119
+mcagov/beacons,120,Bump node-sass from 5.0.0 to 7.0.0 in /service/src/main/backoffice,2022-02-18 11:06:05,https://github.com/mcagov/beacons/pull/120
+mcagov/beacons,121,Bump url-parse from 1.5.1 to 1.5.7 in /service/src/main/backoffice,2022-02-18 11:07:03,https://github.com/mcagov/beacons/pull/121
+mcagov/beacons,122,Bump actions/cache from 2.1.6 to 2.1.7,2022-02-18 21:06:54,https://github.com/mcagov/beacons/pull/122
+mcagov/beacons,123,Bump follow-redirects from 1.14.4 to 1.14.9 in /webapp,2022-02-22 16:53:32,https://github.com/mcagov/beacons/pull/123
+mcagov/beacons,124,Bump nanoid from 3.1.28 to 3.3.1 in /webapp,2022-02-22 16:53:32,https://github.com/mcagov/beacons/pull/124
+mcagov/beacons,125,Bump next from 10.2.0 to 12.1.0 in /webapp,2022-02-22 16:53:37,https://github.com/mcagov/beacons/pull/125
+mcagov/beacons,126,Bump actions/setup-node from 2.4.0 to 3.0.0,2022-02-24 21:08:10,https://github.com/mcagov/beacons/pull/126
+mcagov/beacons,127,Bump actions/setup-node from 2.4.0 to 3,2022-02-25 17:50:00,https://github.com/mcagov/beacons/pull/127
+mcagov/beacons,128,Bump docker/login-action from 1.10.0 to 1.14.0,2022-02-28 21:07:35,https://github.com/mcagov/beacons/pull/128
+mcagov/beacons,129,Bump docker/login-action from 1.10.0 to 1.14.1,2022-03-01 21:10:39,https://github.com/mcagov/beacons/pull/129
+mcagov/beacons,130,Bump actions/checkout from 2 to 3,2022-03-01 21:11:23,https://github.com/mcagov/beacons/pull/130
+mcagov/beacons,131,Wait for ecs deployment,2022-03-14 10:41:16,https://github.com/mcagov/beacons/pull/131
+mcagov/beacons,132,Bump docker/build-push-action from 2.7.0 to 2.10.0,2022-03-14 21:06:54,https://github.com/mcagov/beacons/pull/132
+mcagov/beacons,133,Bump prettier from 2.3.2 to 2.6.0,2022-03-16 21:09:29,https://github.com/mcagov/beacons/pull/133
+mcagov/beacons,134,Bump actions/cache from 2.1.6 to 3,2022-03-21 21:11:10,https://github.com/mcagov/beacons/pull/134
+mcagov/beacons,135,Bump node-forge from 1.2.1 to 1.3.0 in /backoffice,2022-03-23 10:38:27,https://github.com/mcagov/beacons/pull/135
+mcagov/beacons,136,Bump minimist from 1.2.5 to 1.2.6,2022-03-24 12:49:38,https://github.com/mcagov/beacons/pull/136
+mcagov/beacons,137,Bump minimist from 1.2.5 to 1.2.6 in /terraform/trello-lambda,2022-03-24 12:49:45,https://github.com/mcagov/beacons/pull/137
+mcagov/beacons,138,Bump minimist from 1.2.5 to 1.2.6 in /webapp,2022-03-24 12:49:54,https://github.com/mcagov/beacons/pull/138
+mcagov/beacons,139,Bump minimist from 1.2.5 to 1.2.6 in /backoffice,2022-03-24 12:50:04,https://github.com/mcagov/beacons/pull/139
+mcagov/beacons,140,Bump prettier-plugin-java from 1.3.1 to 1.6.1,2022-03-24 21:09:53,https://github.com/mcagov/beacons/pull/140
+mcagov/beacons,141,Bump prettier from 2.3.2 to 2.6.1,2022-03-25 21:09:23,https://github.com/mcagov/beacons/pull/141
+mcagov/beacons,142,"Hide ""Change email"" button from Azure B2C reset password flow",2022-03-30 12:43:24,https://github.com/mcagov/beacons/pull/142
+mcagov/beacons,143,Bump actions/cache from 2.1.6 to 3.0.1,2022-03-30 21:09:28,https://github.com/mcagov/beacons/pull/143
+mcagov/beacons,144,Bump actions/setup-node from 2.4.0 to 3.1.0,2022-04-01 21:09:40,https://github.com/mcagov/beacons/pull/144
+mcagov/beacons,145,Bump prettier from 2.3.2 to 2.6.2,2022-04-04 21:09:43,https://github.com/mcagov/beacons/pull/145
+mcagov/beacons,146,Bump moment from 2.29.1 to 2.29.2 in /terraform/trello-lambda,2022-04-09 12:03:09,https://github.com/mcagov/beacons/pull/146
+mcagov/beacons,147,Bump nanoid from 3.1.28 to 3.3.2 in /webapp,2022-04-11 10:10:01,https://github.com/mcagov/beacons/pull/147
+mcagov/beacons,148,Bump actions/upload-artifact from 2 to 3,2022-04-11 10:10:16,https://github.com/mcagov/beacons/pull/148
+mcagov/beacons,149,Bump actions/setup-java from 2 to 3,2022-04-11 10:10:18,https://github.com/mcagov/beacons/pull/149
+mcagov/beacons,150,Bump node-forge from 1.2.1 to 1.3.1 in /backoffice,2022-04-11 10:15:45,https://github.com/mcagov/beacons/pull/150
+mcagov/beacons,151,Bump actions/setup-node from 3.1.0 to 3.1.1,2022-04-11 21:10:36,https://github.com/mcagov/beacons/pull/151
+mcagov/beacons,152,Bump actions/cache from 3.0.1 to 3.0.2,2022-04-11 21:10:39,https://github.com/mcagov/beacons/pull/152
+mcagov/beacons,153,Bump typescript from 4.6.2 to 4.6.3,2022-04-11 21:10:48,https://github.com/mcagov/beacons/pull/153
+mcagov/beacons,154,Bump async from 3.2.1 to 3.2.3 in /webapp,2022-04-13 10:02:30,https://github.com/mcagov/beacons/pull/154
+mcagov/beacons,155,Bump com.adarshr.test-logger from 3.0.0 to 3.2.0 in /service,2022-04-13 16:49:06,https://github.com/mcagov/beacons/pull/155
+mcagov/beacons,156,Bump adoptopenjdk from 11-jre-hotspot to 16-jre-hotspot in /service,2022-04-13 16:49:06,https://github.com/mcagov/beacons/pull/156
+mcagov/beacons,157,Bump node from 16-alpine to 17-alpine in /backoffice,2022-04-13 16:49:09,https://github.com/mcagov/beacons/pull/157
+mcagov/beacons,158,Bump shedlock-spring from 4.33.0 to 4.34.0 in /service,2022-04-13 16:49:09,https://github.com/mcagov/beacons/pull/158
+mcagov/beacons,159,Bump spring-data-elasticsearch from 4.2.7 to 4.3.3 in /service,2022-04-13 16:49:13,https://github.com/mcagov/beacons/pull/159
+mcagov/beacons,160,Bump hashicorp/aws from 3.59.0 to 4.9.0 in /maintenance-page,2022-04-13 16:49:18,https://github.com/mcagov/beacons/pull/160
+mcagov/beacons,161,Bump azure-spring-boot-starter-active-directory from 3.6.1 to 4.0.0 in /service,2022-04-13 16:49:20,https://github.com/mcagov/beacons/pull/161
+mcagov/beacons,162,Bump io.freefair.lombok from 6.1.0 to 6.4.2 in /service,2022-04-13 16:49:21,https://github.com/mcagov/beacons/pull/162
+mcagov/beacons,163,Bump next from 10.2.0 to 12.1.5 in /webapp,2022-04-13 16:49:35,https://github.com/mcagov/beacons/pull/163
+mcagov/beacons,164,Bump husky from 4.3.8 to 7.0.4 in /webapp,2022-04-13 16:49:46,https://github.com/mcagov/beacons/pull/164
+mcagov/beacons,165,Bump msw from 0.32.3 to 0.39.2 in /webapp,2022-04-13 16:50:11,https://github.com/mcagov/beacons/pull/165
+mcagov/beacons,166,Bump redis-json from 6.0.1 to 6.0.3 in /webapp,2022-04-13 16:50:22,https://github.com/mcagov/beacons/pull/166
+mcagov/beacons,167,Bump eslint-plugin-react-hooks from 4.2.0 to 4.4.0 in /webapp,2022-04-13 16:50:33,https://github.com/mcagov/beacons/pull/167
+mcagov/beacons,168,Bump @types/react from 17.0.39 to 18.0.3 in /backoffice,2022-04-13 16:50:38,https://github.com/mcagov/beacons/pull/168
+mcagov/beacons,169,Bump react-router-dom from 5.3.0 to 6.3.0 in /backoffice,2022-04-13 16:51:12,https://github.com/mcagov/beacons/pull/169
+mcagov/beacons,170,Bump react-scripts from 5.0.0 to 5.0.1 in /backoffice,2022-04-13 16:52:13,https://github.com/mcagov/beacons/pull/170
+mcagov/beacons,171,Bump @testing-library/jest-dom from 5.16.2 to 5.16.4 in /backoffice,2022-04-13 16:53:11,https://github.com/mcagov/beacons/pull/171
+mcagov/beacons,172,Bump @appbaseio/reactivesearch from 3.28.0 to 3.29.1 in /backoffice,2022-04-13 16:53:48,https://github.com/mcagov/beacons/pull/172
+mcagov/beacons,173,Bump @types/react from 17.0.39 to 18.0.4 in /backoffice,2022-04-13 17:39:17,https://github.com/mcagov/beacons/pull/173
+mcagov/beacons,174,Bump hashicorp/setup-terraform from 1 to 2,2022-04-18 21:04:10,https://github.com/mcagov/beacons/pull/174
+mcagov/beacons,175,Bump @types/react-dom from 17.0.11 to 18.0.1 in /backoffice,2022-04-18 21:17:40,https://github.com/mcagov/beacons/pull/175
+mcagov/beacons,176,Bump @typescript-eslint/eslint-plugin from 4.31.2 to 4.33.0 in /webapp,2022-04-18 21:17:41,https://github.com/mcagov/beacons/pull/176
+mcagov/beacons,177,Bump @types/react from 17.0.24 to 18.0.5 in /webapp,2022-04-18 21:17:53,https://github.com/mcagov/beacons/pull/177
+mcagov/beacons,178,Bump @types/lodash from 4.14.178 to 4.14.181 in /backoffice,2022-04-18 21:17:57,https://github.com/mcagov/beacons/pull/178
+mcagov/beacons,179,Bump @jest/types from 27.1.1 to 27.5.1 in /webapp,2022-04-18 21:18:08,https://github.com/mcagov/beacons/pull/179
+mcagov/beacons,180,Bump @types/cookie from 0.4.1 to 0.5.0 in /webapp,2022-04-18 21:18:24,https://github.com/mcagov/beacons/pull/180
+mcagov/beacons,181,Bump @material-table/core from 0.2.29 to 4.3.39 in /backoffice,2022-04-18 21:18:26,https://github.com/mcagov/beacons/pull/181
+mcagov/beacons,182,Bump eslint from 8.9.0 to 8.13.0 in /backoffice,2022-04-18 21:18:56,https://github.com/mcagov/beacons/pull/182
+mcagov/beacons,183,Bump adoptopenjdk from 11-jre-hotspot to 15-jre-hotspot in /service,2022-04-18 21:20:15,https://github.com/mcagov/beacons/pull/183
+mcagov/beacons,184,Bump postgresql from 42.3.3 to 42.3.4 in /service,2022-04-18 21:20:21,https://github.com/mcagov/beacons/pull/184
+mcagov/beacons,185,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.34.0 in /service,2022-04-18 21:20:23,https://github.com/mcagov/beacons/pull/185
+mcagov/beacons,186,Bump hashicorp/aws from 4.9.0 to 4.10.0 in /maintenance-page,2022-04-18 21:20:28,https://github.com/mcagov/beacons/pull/186
+mcagov/beacons,187,Bump spring-security-test from 5.6.2 to 5.6.3 in /service,2022-04-18 21:20:30,https://github.com/mcagov/beacons/pull/187
+mcagov/beacons,188,Bump junit-jupiter from 1.16.3 to 1.17.1 in /service,2022-04-18 21:20:36,https://github.com/mcagov/beacons/pull/188
+mcagov/beacons,189,Bump hibernate-types-55 from 2.15.1 to 2.16.1 in /service,2022-04-18 21:20:40,https://github.com/mcagov/beacons/pull/189
+mcagov/beacons,190,Bump next-auth from 3.29.0 to 4.3.2 in /webapp,2022-04-22 21:46:58,https://github.com/mcagov/beacons/pull/190
+mcagov/beacons,191,Bump github/codeql-action from 1 to 2,2022-04-25 21:05:53,https://github.com/mcagov/beacons/pull/191
+mcagov/beacons,192,Bump cypress from 9.5.4 to 9.6.0,2022-04-25 21:06:16,https://github.com/mcagov/beacons/pull/192
+mcagov/beacons,193,Bump ioredis from 4.28.5 to 5.0.4 in /webapp,2022-04-25 21:26:47,https://github.com/mcagov/beacons/pull/193
+mcagov/beacons,194,Bump @types/lodash from 4.14.178 to 4.14.182 in /backoffice,2022-04-25 21:27:28,https://github.com/mcagov/beacons/pull/194
+mcagov/beacons,195,Bump typescript from 4.5.5 to 4.6.3 in /backoffice,2022-04-25 21:27:55,https://github.com/mcagov/beacons/pull/195
+mcagov/beacons,196,Bump @types/react from 17.0.39 to 17.0.44 in /backoffice,2022-04-25 21:28:12,https://github.com/mcagov/beacons/pull/196
+mcagov/beacons,197,Bump @material-table/core from 0.2.29 to 3.2.5 in /backoffice,2022-04-25 21:29:00,https://github.com/mcagov/beacons/pull/197
+mcagov/beacons,198,Bump next-auth from 3.29.0 to 4.3.3 in /webapp,2022-04-25 21:29:02,https://github.com/mcagov/beacons/pull/198
+mcagov/beacons,199,Bump @types/cookie from 0.4.1 to 0.5.1 in /webapp,2022-04-25 21:30:43,https://github.com/mcagov/beacons/pull/199
+mcagov/beacons,200,Bump eslint from 8.9.0 to 8.14.0 in /backoffice,2022-04-25 21:31:32,https://github.com/mcagov/beacons/pull/200
+mcagov/beacons,201,Bump adoptopenjdk from 11-jre-hotspot to 14-jre-hotspot in /service,2022-04-25 21:31:40,https://github.com/mcagov/beacons/pull/201
+mcagov/beacons,202,Bump hashicorp/aws from 4.9.0 to 4.11.0 in /maintenance-page,2022-04-25 21:32:21,https://github.com/mcagov/beacons/pull/202
+mcagov/beacons,203,Bump @jest/types from 27.1.1 to 28.0.0 in /webapp,2022-04-25 21:32:31,https://github.com/mcagov/beacons/pull/203
+mcagov/beacons,204,Bump spring-boot-starter-web from 2.6.6 to 2.6.7 in /service,2022-04-27 12:38:42,https://github.com/mcagov/beacons/pull/204
+mcagov/beacons,205,Bump spring-boot-starter-test from 2.6.6 to 2.6.7 in /service,2022-04-27 12:38:45,https://github.com/mcagov/beacons/pull/205
+mcagov/beacons,206,Bump spring-boot-devtools from 2.6.6 to 2.6.7 in /service,2022-04-27 12:43:39,https://github.com/mcagov/beacons/pull/206
+mcagov/beacons,207,Bump adoptopenjdk from 11-jre-hotspot to 13-jre-hotspot in /service,2022-04-27 13:50:24,https://github.com/mcagov/beacons/pull/207
+mcagov/beacons,208,Bump axios from 0.21.4 to 0.27.2 in /backoffice,2022-04-27 13:50:47,https://github.com/mcagov/beacons/pull/208
+mcagov/beacons,209,Bump @mui/icons-material from 5.4.2 to 5.6.2 in /backoffice,2022-04-27 13:51:12,https://github.com/mcagov/beacons/pull/209
+mcagov/beacons,210,Bump docker/setup-buildx-action from 1.6.0 to 1.7.0,2022-05-02 21:03:01,https://github.com/mcagov/beacons/pull/210
+mcagov/beacons,211,Bump typescript from 4.6.3 to 4.6.4,2022-05-02 21:03:23,https://github.com/mcagov/beacons/pull/211
+mcagov/beacons,212,Bump hashicorp/aws from 4.9.0 to 4.12.1 in /maintenance-page,2022-05-02 21:17:16,https://github.com/mcagov/beacons/pull/212
+mcagov/beacons,213,Bump typescript from 4.5.5 to 4.6.4 in /backoffice,2022-05-02 21:21:26,https://github.com/mcagov/beacons/pull/213
+mcagov/beacons,214,Bump docker/setup-buildx-action from 1.6.0 to 2.0.0,2022-05-09 21:04:10,https://github.com/mcagov/beacons/pull/214
+mcagov/beacons,215,Bump docker/login-action from 1.14.1 to 2.0.0,2022-05-09 21:04:12,https://github.com/mcagov/beacons/pull/215
+mcagov/beacons,216,Bump docker/build-push-action from 2.10.0 to 3.0.0,2022-05-09 21:04:16,https://github.com/mcagov/beacons/pull/216
+mcagov/beacons,217,Bump cypress from 9.5.4 to 9.6.1,2022-05-09 21:04:32,https://github.com/mcagov/beacons/pull/217
+mcagov/beacons,218,Bump husky from 7.0.4 to 8.0.1,2022-05-09 21:04:41,https://github.com/mcagov/beacons/pull/218
+mcagov/beacons,219,Bump eslint from 8.9.0 to 8.15.0 in /backoffice,2022-05-09 21:24:25,https://github.com/mcagov/beacons/pull/219
+mcagov/beacons,220,Bump hashicorp/aws from 4.9.0 to 4.13.0 in /maintenance-page,2022-05-09 21:25:08,https://github.com/mcagov/beacons/pull/220
+mcagov/beacons,221,Bump hibernate-types-55 from 2.15.1 to 2.16.2 in /service,2022-05-09 21:26:33,https://github.com/mcagov/beacons/pull/221
+mcagov/beacons,222,Bump actions/setup-node from 3.1.1 to 3.2.0,2022-05-16 21:05:01,https://github.com/mcagov/beacons/pull/222
+mcagov/beacons,223,Bump dotenv from 16.0.0 to 16.0.1,2022-05-16 21:05:56,https://github.com/mcagov/beacons/pull/223
+mcagov/beacons,224,Bump hashicorp/aws from 4.9.0 to 4.14.0 in /maintenance-page,2022-05-16 21:28:02,https://github.com/mcagov/beacons/pull/224
+mcagov/beacons,225,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.35.0 in /service,2022-05-16 21:29:57,https://github.com/mcagov/beacons/pull/225
+mcagov/beacons,226,Bump cypress from 9.5.4 to 9.7.0,2022-05-23 21:04:51,https://github.com/mcagov/beacons/pull/226
+mcagov/beacons,227,Bump hashicorp/aws from 4.9.0 to 4.15.1 in /maintenance-page,2022-05-23 21:24:03,https://github.com/mcagov/beacons/pull/227
+mcagov/beacons,228,Bump spring-boot-devtools from 2.6.6 to 2.7.0 in /service,2022-05-23 21:24:21,https://github.com/mcagov/beacons/pull/228
+mcagov/beacons,229,Bump junit-jupiter from 1.16.3 to 1.17.2 in /service,2022-05-23 21:24:25,https://github.com/mcagov/beacons/pull/229
+mcagov/beacons,230,Bump spring-boot-starter-web from 2.6.6 to 2.7.0 in /service,2022-05-23 21:25:46,https://github.com/mcagov/beacons/pull/230
+mcagov/beacons,231,Bump eslint from 8.9.0 to 8.16.0 in /backoffice,2022-05-23 21:30:30,https://github.com/mcagov/beacons/pull/231
+mcagov/beacons,232,Bump @mui/icons-material from 5.4.2 to 5.8.0 in /backoffice,2022-05-23 21:31:50,https://github.com/mcagov/beacons/pull/232
+mcagov/beacons,233,Bump next-auth from 3.29.0 to 3.29.3 in /webapp,2022-05-24 22:06:36,https://github.com/mcagov/beacons/pull/233
+mcagov/beacons,234,Bump prettier-plugin-java from 1.6.1 to 1.6.2,2022-05-30 21:05:39,https://github.com/mcagov/beacons/pull/234
+mcagov/beacons,235,Bump typescript from 4.6.3 to 4.7.2,2022-05-30 21:06:09,https://github.com/mcagov/beacons/pull/235
+mcagov/beacons,236,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.36.0 in /service,2022-05-30 21:35:51,https://github.com/mcagov/beacons/pull/236
+mcagov/beacons,237,Bump typescript from 4.5.5 to 4.7.2 in /backoffice,2022-05-30 21:37:02,https://github.com/mcagov/beacons/pull/237
+mcagov/beacons,238,Bump hashicorp/aws from 4.9.0 to 4.16.0 in /maintenance-page,2022-05-30 21:37:45,https://github.com/mcagov/beacons/pull/238
+mcagov/beacons,239,Bump semver-regex from 3.1.3 to 3.1.4 in /webapp,2022-06-04 00:04:35,https://github.com/mcagov/beacons/pull/239
+mcagov/beacons,240,Bump typescript from 4.6.3 to 4.7.3,2022-06-06 21:05:40,https://github.com/mcagov/beacons/pull/240
+mcagov/beacons,241,Bump cypress from 9.5.4 to 10.0.3,2022-06-06 21:06:07,https://github.com/mcagov/beacons/pull/241
+mcagov/beacons,242,Bump hashicorp/aws from 4.9.0 to 4.17.1 in /maintenance-page,2022-06-06 21:23:50,https://github.com/mcagov/beacons/pull/242
+mcagov/beacons,243,Bump eslint from 8.9.0 to 8.17.0 in /backoffice,2022-06-06 21:25:31,https://github.com/mcagov/beacons/pull/243
+mcagov/beacons,244,Bump @material-table/core from 0.2.29 to 5.0.2 in /backoffice,2022-06-06 21:27:00,https://github.com/mcagov/beacons/pull/244
+mcagov/beacons,245,Bump @mui/icons-material from 5.4.2 to 5.8.2 in /backoffice,2022-06-06 21:29:49,https://github.com/mcagov/beacons/pull/245
+mcagov/beacons,246,Bump typescript from 4.5.5 to 4.7.3 in /backoffice,2022-06-06 21:33:16,https://github.com/mcagov/beacons/pull/246
+mcagov/beacons,247,Bump actions/setup-node from 3.1.1 to 3.3.0,2022-06-06 21:56:50,https://github.com/mcagov/beacons/pull/247
+mcagov/beacons,248,Bump lint-staged from 11.2.6 to 13.0.0 in /backoffice,2022-06-08 14:34:56,https://github.com/mcagov/beacons/pull/248
+mcagov/beacons,249,Bump cypress from 9.5.4 to 10.1.0,2022-06-13 21:05:40,https://github.com/mcagov/beacons/pull/249
+mcagov/beacons,250,Bump hashicorp/aws from 4.9.0 to 4.18.0 in /maintenance-page,2022-06-13 21:30:37,https://github.com/mcagov/beacons/pull/250
+mcagov/beacons,251,Bump lint-staged from 11.2.6 to 13.0.1 in /backoffice,2022-06-13 21:31:56,https://github.com/mcagov/beacons/pull/251
+mcagov/beacons,252,Bump typescript from 4.6.3 to 4.7.4,2022-06-20 21:04:52,https://github.com/mcagov/beacons/pull/252
+mcagov/beacons,253,Bump typescript from 4.7.3 to 4.7.4 in /backoffice,2022-06-20 21:24:11,https://github.com/mcagov/beacons/pull/253
+mcagov/beacons,254,Bump lint-staged from 11.2.6 to 13.0.2 in /backoffice,2022-06-20 21:25:01,https://github.com/mcagov/beacons/pull/254
+mcagov/beacons,255,Bump hashicorp/aws from 4.9.0 to 4.19.0 in /maintenance-page,2022-06-20 21:26:32,https://github.com/mcagov/beacons/pull/255
+mcagov/beacons,256,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.37.0 in /service,2022-06-20 21:27:36,https://github.com/mcagov/beacons/pull/256
+mcagov/beacons,257,Bump eslint from 8.17.0 to 8.18.0 in /backoffice,2022-06-20 21:28:03,https://github.com/mcagov/beacons/pull/257
+mcagov/beacons,258,Bump next-auth from 3.29.3 to 3.29.5 in /webapp,2022-06-21 21:06:50,https://github.com/mcagov/beacons/pull/258
+mcagov/beacons,259,Bump cypress from 9.5.4 to 10.2.0,2022-06-27 21:07:17,https://github.com/mcagov/beacons/pull/259
+mcagov/beacons,260,Bump lint-staged from 11.2.6 to 13.0.3 in /backoffice,2022-06-27 21:30:54,https://github.com/mcagov/beacons/pull/260
+mcagov/beacons,261,Bump nginx from 1.21.6 to 1.23.0 in /opensearch/proxy,2022-06-27 21:34:23,https://github.com/mcagov/beacons/pull/261
+mcagov/beacons,262,Bump hibernate-types-55 from 2.15.1 to 2.16.3 in /service,2022-06-27 21:34:47,https://github.com/mcagov/beacons/pull/262
+mcagov/beacons,263,Bump hashicorp/aws from 4.9.0 to 4.20.1 in /maintenance-page,2022-06-27 21:35:22,https://github.com/mcagov/beacons/pull/263
+mcagov/beacons,264,Bump spring-boot-starter-web from 2.6.6 to 2.7.1 in /service,2022-06-27 21:35:30,https://github.com/mcagov/beacons/pull/264
+mcagov/beacons,265,Bump spring-boot-devtools from 2.6.6 to 2.7.1 in /service,2022-06-27 21:35:42,https://github.com/mcagov/beacons/pull/265
+mcagov/beacons,266,Bump cypress from 9.5.4 to 10.3.0,2022-07-04 21:04:37,https://github.com/mcagov/beacons/pull/266
+mcagov/beacons,267,Bump @material-table/core from 0.2.34 to 5.0.3 in /backoffice,2022-07-04 21:24:08,https://github.com/mcagov/beacons/pull/267
+mcagov/beacons,268,Bump hashicorp/aws from 4.9.0 to 4.21.0 in /maintenance-page,2022-07-04 21:25:00,https://github.com/mcagov/beacons/pull/268
+mcagov/beacons,269,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.38.0 in /service,2022-07-04 21:25:02,https://github.com/mcagov/beacons/pull/269
+mcagov/beacons,270,Bump junit-jupiter from 1.16.3 to 1.17.3 in /service,2022-07-04 21:26:01,https://github.com/mcagov/beacons/pull/270
+mcagov/beacons,271,Bump eslint from 8.17.0 to 8.19.0 in /backoffice,2022-07-04 21:28:22,https://github.com/mcagov/beacons/pull/271
+mcagov/beacons,272,Bump next-auth from 3.29.3 to 3.29.8 in /webapp,2022-07-06 19:48:03,https://github.com/mcagov/beacons/pull/272
+mcagov/beacons,273,Bump actions/setup-node from 3.1.1 to 3.4.0,2022-07-11 21:09:41,https://github.com/mcagov/beacons/pull/273
+mcagov/beacons,274,Bump hashicorp/aws from 4.9.0 to 4.22.0 in /maintenance-page,2022-07-11 21:41:20,https://github.com/mcagov/beacons/pull/274
+mcagov/beacons,275,Bump @material-table/core from 0.2.34 to 5.0.4 in /backoffice,2022-07-11 21:41:32,https://github.com/mcagov/beacons/pull/275
+mcagov/beacons,276,Clear Redis cache when starting a new registration,2022-07-15 13:33:52,https://github.com/mcagov/beacons/pull/276
+mcagov/beacons,277,Bump actions/setup-node from 3.1.1 to 3.4.1,2022-07-18 21:31:21,https://github.com/mcagov/beacons/pull/277
+mcagov/beacons,278,Bump eslint from 8.17.0 to 8.20.0 in /backoffice,2022-07-18 21:57:11,https://github.com/mcagov/beacons/pull/278
+mcagov/beacons,279,Copy to clipboard,2022-07-20 14:09:49,https://github.com/mcagov/beacons/pull/279
+mcagov/beacons,280,Bump terser from 5.14.0 to 5.14.2 in /backoffice,2022-07-21 05:48:33,https://github.com/mcagov/beacons/pull/280
+mcagov/beacons,281,Added beacon notes to copy to clipboard export,2022-07-21 15:55:42,https://github.com/mcagov/beacons/pull/281
+mcagov/beacons,282,Bump docker/build-push-action from 2.10.0 to 3.1.0,2022-07-25 21:08:44,https://github.com/mcagov/beacons/pull/282
+mcagov/beacons,283,Bump cypress from 9.5.4 to 10.3.1,2022-07-25 21:09:26,https://github.com/mcagov/beacons/pull/283
+mcagov/beacons,284,Bump nginx from 1.21.6 to 1.23.1 in /opensearch/proxy,2022-07-25 21:30:31,https://github.com/mcagov/beacons/pull/284
+mcagov/beacons,285,Bump hashicorp/aws from 4.9.0 to 4.23.0 in /maintenance-page,2022-07-25 21:31:11,https://github.com/mcagov/beacons/pull/285
+mcagov/beacons,286,Bump spring-boot-starter-web from 2.6.6 to 2.7.2 in /service,2022-07-25 21:31:28,https://github.com/mcagov/beacons/pull/286
+mcagov/beacons,287,Bump hibernate-types-55 from 2.15.1 to 2.17.0 in /service,2022-07-25 21:31:48,https://github.com/mcagov/beacons/pull/287
+mcagov/beacons,288,Bump spring-boot-devtools from 2.6.6 to 2.7.2 in /service,2022-07-25 21:33:00,https://github.com/mcagov/beacons/pull/288
+mcagov/beacons,289,Bump hashicorp/aws from 4.9.0 to 4.24.0 in /maintenance-page,2022-08-01 21:26:30,https://github.com/mcagov/beacons/pull/289
+mcagov/beacons,290,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.39.0 in /service,2022-08-01 21:27:30,https://github.com/mcagov/beacons/pull/290
+mcagov/beacons,291,Bump eslint from 8.17.0 to 8.21.0 in /backoffice,2022-08-01 21:27:32,https://github.com/mcagov/beacons/pull/291
+mcagov/beacons,292,Bump hibernate-types-55 from 2.15.1 to 2.17.1 in /service,2022-08-01 21:30:29,https://github.com/mcagov/beacons/pull/292
+mcagov/beacons,293,Bump next-auth from 3.29.3 to 3.29.10 in /webapp,2022-08-02 18:05:38,https://github.com/mcagov/beacons/pull/293
+mcagov/beacons,294,Bump docker/build-push-action from 2.10.0 to 3.1.1,2022-08-08 21:05:10,https://github.com/mcagov/beacons/pull/294
+mcagov/beacons,295,Bump cypress from 9.5.4 to 10.4.0,2022-08-08 21:05:44,https://github.com/mcagov/beacons/pull/295
+mcagov/beacons,296,Bump hashicorp/aws from 4.9.0 to 4.25.0 in /maintenance-page,2022-08-08 21:27:10,https://github.com/mcagov/beacons/pull/296
+mcagov/beacons,297,Bump hibernate-types-55 from 2.15.1 to 2.17.3 in /service,2022-08-08 21:28:49,https://github.com/mcagov/beacons/pull/297
+mcagov/beacons,298,Service health check,2022-08-10 13:28:28,https://github.com/mcagov/beacons/pull/298
+mcagov/beacons,299,Bump @material-table/core from 0.2.34 to 5.0.5 in /backoffice,2022-08-15 21:19:17,https://github.com/mcagov/beacons/pull/299
+mcagov/beacons,300,Bump hibernate-types-55 from 2.15.1 to 2.18.0 in /service,2022-08-15 21:22:05,https://github.com/mcagov/beacons/pull/300
+mcagov/beacons,301,Bump hashicorp/aws from 4.9.0 to 4.26.0 in /maintenance-page,2022-08-15 21:22:05,https://github.com/mcagov/beacons/pull/301
+mcagov/beacons,302,Bump eslint from 8.17.0 to 8.22.0 in /backoffice,2022-08-15 21:22:35,https://github.com/mcagov/beacons/pull/302
+mcagov/beacons,303,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.40.0 in /service,2022-08-15 21:23:30,https://github.com/mcagov/beacons/pull/303
+mcagov/beacons,304,Bump cypress from 9.5.4 to 10.6.0,2022-08-22 21:06:36,https://github.com/mcagov/beacons/pull/304
+mcagov/beacons,305,Bump hashicorp/aws from 4.9.0 to 4.27.0 in /maintenance-page,2022-08-22 21:26:11,https://github.com/mcagov/beacons/pull/305
+mcagov/beacons,306,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.41.0 in /service,2022-08-22 21:26:19,https://github.com/mcagov/beacons/pull/306
+mcagov/beacons,307,Bump spring-boot-starter-web from 2.6.6 to 2.7.3 in /service,2022-08-22 21:27:48,https://github.com/mcagov/beacons/pull/307
+mcagov/beacons,308,Bump spring-boot-devtools from 2.6.6 to 2.7.3 in /service,2022-08-22 21:27:55,https://github.com/mcagov/beacons/pull/308
+mcagov/beacons,309,Trello board alerts,2022-08-24 11:02:13,https://github.com/mcagov/beacons/pull/309
+mcagov/beacons,311,Dependabot updates,2022-08-25 11:57:24,https://github.com/mcagov/beacons/pull/311
+mcagov/beacons,312,Bump typescript from 4.6.3 to 4.8.2,2022-08-29 21:05:19,https://github.com/mcagov/beacons/pull/312
+mcagov/beacons,313,Bump hashicorp/aws from 4.9.0 to 4.28.0 in /maintenance-page,2022-08-29 21:22:54,https://github.com/mcagov/beacons/pull/313
+mcagov/beacons,314,Bump eslint from 8.17.0 to 8.23.0 in /backoffice,2022-08-29 21:25:49,https://github.com/mcagov/beacons/pull/314
+mcagov/beacons,315,Bump typescript from 4.7.3 to 4.8.2 in /backoffice,2022-08-29 21:28:43,https://github.com/mcagov/beacons/pull/315
+mcagov/beacons,316,Bump dotenv from 16.0.1 to 16.0.2,2022-08-31 11:03:29,https://github.com/mcagov/beacons/pull/316
+mcagov/beacons,317,Bump prettier from 2.6.2 to 2.7.1,2022-08-31 11:03:35,https://github.com/mcagov/beacons/pull/317
+mcagov/beacons,318,Bump cypress from 9.7.0 to 10.7.0,2022-08-31 11:03:43,https://github.com/mcagov/beacons/pull/318
+mcagov/beacons,319,Bump @testing-library/user-event from 13.5.0 to 14.4.3 in /backoffice,2022-08-31 11:04:21,https://github.com/mcagov/beacons/pull/319
+mcagov/beacons,320,Bump @types/node from 16.4.13 to 18.7.14 in /backoffice,2022-08-31 11:04:55,https://github.com/mcagov/beacons/pull/320
+mcagov/beacons,321,Dependabot updates,2022-08-31 11:47:16,https://github.com/mcagov/beacons/pull/321
+mcagov/beacons,322,Dependabot updates,2022-08-31 13:57:06,https://github.com/mcagov/beacons/pull/322
+mcagov/beacons,323,"Fix wrong address line being mapped, added line 3&4 to address panel",2022-09-02 13:24:02,https://github.com/mcagov/beacons/pull/323
+mcagov/beacons,324,Bump prettier-plugin-organize-imports from 2.3.4 to 3.1.1,2022-09-05 21:06:38,https://github.com/mcagov/beacons/pull/324
+mcagov/beacons,325,Bump @types/node from 16.4.13 to 18.7.15 in /backoffice,2022-09-05 21:28:16,https://github.com/mcagov/beacons/pull/325
+mcagov/beacons,326,Bump hashicorp/aws from 4.28.0 to 4.29.0 in /maintenance-page,2022-09-05 21:29:35,https://github.com/mcagov/beacons/pull/326
+mcagov/beacons,327,Bump hibernate-types-55 from 2.15.1 to 2.19.0 in /service,2022-09-05 21:30:05,https://github.com/mcagov/beacons/pull/327
+mcagov/beacons,328,Service health check,2022-09-07 16:09:22,https://github.com/mcagov/beacons/pull/328
+mcagov/beacons,329,Service health check,2022-09-07 16:19:03,https://github.com/mcagov/beacons/pull/329
+mcagov/beacons,330,Service health check,2022-09-07 16:30:29,https://github.com/mcagov/beacons/pull/330
+mcagov/beacons,331,Fixed type errors,2022-09-08 10:13:23,https://github.com/mcagov/beacons/pull/331
+mcagov/beacons,332,Bump @types/node from 16.4.13 to 18.7.16 in /backoffice,2022-09-08 12:45:51,https://github.com/mcagov/beacons/pull/332
+mcagov/beacons,333,Bump typescript from 4.8.2 to 4.8.3,2022-09-12 21:17:28,https://github.com/mcagov/beacons/pull/333
+mcagov/beacons,334,Bump hashicorp/aws from 4.28.0 to 4.30.0 in /maintenance-page,2022-09-12 21:45:42,https://github.com/mcagov/beacons/pull/334
+mcagov/beacons,335,Bump @material-table/core from 0.2.35 to 5.1.3 in /backoffice,2022-09-12 21:47:47,https://github.com/mcagov/beacons/pull/335
+mcagov/beacons,336,Bump hibernate-types-55 from 2.15.1 to 2.19.2 in /service,2022-09-12 21:48:14,https://github.com/mcagov/beacons/pull/336
+mcagov/beacons,337,Bump @types/node from 16.4.13 to 18.7.17 in /backoffice,2022-09-12 21:50:38,https://github.com/mcagov/beacons/pull/337
+mcagov/beacons,338,Bump cypress from 9.7.0 to 10.8.0,2022-09-19 21:04:02,https://github.com/mcagov/beacons/pull/338
+mcagov/beacons,339,Bump hashicorp/aws from 4.28.0 to 4.31.0 in /maintenance-page,2022-09-19 21:16:38,https://github.com/mcagov/beacons/pull/339
+mcagov/beacons,340,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.42.0 in /service,2022-09-19 21:16:59,https://github.com/mcagov/beacons/pull/340
+mcagov/beacons,341,Bump @types/node from 16.4.13 to 18.7.18 in /backoffice,2022-09-19 21:21:35,https://github.com/mcagov/beacons/pull/341
+mcagov/beacons,342,Labels/v2,2022-09-23 14:52:15,https://github.com/mcagov/beacons/pull/342
+mcagov/beacons,343,Bump spring-boot-starter-web from 2.6.6 to 2.7.4 in /service,2022-09-23 14:54:54,https://github.com/mcagov/beacons/pull/343
+mcagov/beacons,344,Bump spring-boot-devtools from 2.6.6 to 2.7.4 in /service,2022-09-23 14:55:30,https://github.com/mcagov/beacons/pull/344
+mcagov/beacons,345,Bump hashicorp/aws from 4.28.0 to 4.32.0 in /maintenance-page,2022-09-26 21:27:57,https://github.com/mcagov/beacons/pull/345
+mcagov/beacons,346,Bump @types/node from 16.4.13 to 18.7.23 in /backoffice,2022-09-26 21:29:08,https://github.com/mcagov/beacons/pull/346
+mcagov/beacons,347,Bump @material-table/core from 0.2.35 to 5.1.5 in /backoffice,2022-09-26 21:30:24,https://github.com/mcagov/beacons/pull/347
+mcagov/beacons,348,Bump actions/setup-node from 3.1.1 to 3.5.0,2022-10-03 21:07:23,https://github.com/mcagov/beacons/pull/348
+mcagov/beacons,349,Bump cypress from 9.7.0 to 10.9.0,2022-10-03 21:07:30,https://github.com/mcagov/beacons/pull/349
+mcagov/beacons,350,Bump typescript from 4.8.2 to 4.8.4,2022-10-03 21:07:44,https://github.com/mcagov/beacons/pull/350
+mcagov/beacons,351,Bump @material-table/core from 0.2.35 to 5.1.6 in /backoffice,2022-10-03 21:43:15,https://github.com/mcagov/beacons/pull/351
+mcagov/beacons,352,Bump hashicorp/aws from 4.28.0 to 4.33.0 in /maintenance-page,2022-10-03 21:47:42,https://github.com/mcagov/beacons/pull/352
+mcagov/beacons,353,Bump @types/node from 16.4.13 to 18.8.0 in /backoffice,2022-10-03 21:49:01,https://github.com/mcagov/beacons/pull/353
+mcagov/beacons,354,Bump junit-jupiter from 1.16.3 to 1.17.4 in /service,2022-10-03 21:51:17,https://github.com/mcagov/beacons/pull/354
+mcagov/beacons,355,Data scripts,2022-10-04 11:54:24,https://github.com/mcagov/beacons/pull/355
+mcagov/beacons,356,Certificates v2,2022-10-05 14:54:08,https://github.com/mcagov/beacons/pull/356
+mcagov/beacons,357,Bump axios from 0.21.4 to 1.0.0 in /backoffice,2022-10-05 17:50:12,https://github.com/mcagov/beacons/pull/357
+mcagov/beacons,358,Bump @types/node from 16.4.13 to 18.8.2 in /backoffice,2022-10-05 17:53:09,https://github.com/mcagov/beacons/pull/358
+mcagov/beacons,359,Certificates unit tests,2022-10-06 14:01:28,https://github.com/mcagov/beacons/pull/359
+mcagov/beacons,360,Certificates v2,2022-10-07 09:03:27,https://github.com/mcagov/beacons/pull/360
+mcagov/beacons,361,Cover letters,2022-10-10 13:02:51,https://github.com/mcagov/beacons/pull/361
+mcagov/beacons,362,Cover letters,2022-10-12 13:05:43,https://github.com/mcagov/beacons/pull/362
+mcagov/beacons,363,refactor backoffice to be export data rather than certificate,2022-10-12 13:31:10,https://github.com/mcagov/beacons/pull/363
+mcagov/beacons,364,Label DTO changes,2022-10-13 11:29:07,https://github.com/mcagov/beacons/pull/364
+mcagov/beacons,365,Bump cypress from 9.7.0 to 10.10.0,2022-10-17 21:04:18,https://github.com/mcagov/beacons/pull/365
+mcagov/beacons,366,Bump actions/setup-node from 3.1.1 to 3.5.1,2022-10-17 21:04:19,https://github.com/mcagov/beacons/pull/366
+mcagov/beacons,367,Bump hashicorp/setup-terraform from 1 to 2.0.2,2022-10-17 21:04:22,https://github.com/mcagov/beacons/pull/367
+mcagov/beacons,368,Bump docker/build-push-action from 2.10.0 to 3.2.0,2022-10-17 21:04:28,https://github.com/mcagov/beacons/pull/368
+mcagov/beacons,369,Bump docker/login-action from 1.14.1 to 2.1.0,2022-10-17 21:04:31,https://github.com/mcagov/beacons/pull/369
+mcagov/beacons,370,Bump docker/setup-buildx-action from 1.6.0 to 2.2.0,2022-10-17 21:04:35,https://github.com/mcagov/beacons/pull/370
+mcagov/beacons,371,Bump @xmldom/xmldom from 0.7.5 to 0.7.6 in /webapp,2022-10-17 21:07:05,https://github.com/mcagov/beacons/pull/371
+mcagov/beacons,372,Bump hashicorp/aws from 4.28.0 to 4.35.0 in /maintenance-page,2022-10-17 21:21:41,https://github.com/mcagov/beacons/pull/372
+mcagov/beacons,373,Bump hibernate-types-55 from 2.15.1 to 2.20.0 in /service,2022-10-17 21:21:49,https://github.com/mcagov/beacons/pull/373
+mcagov/beacons,374,Bump junit-jupiter from 1.16.3 to 1.17.5 in /service,2022-10-17 21:22:33,https://github.com/mcagov/beacons/pull/374
+mcagov/beacons,375,Bump @types/node from 16.4.13 to 18.11.0 in /backoffice,2022-10-17 21:22:40,https://github.com/mcagov/beacons/pull/375
+mcagov/beacons,376,Bump axios from 0.21.4 to 1.1.3 in /backoffice,2022-10-17 21:30:16,https://github.com/mcagov/beacons/pull/376
+mcagov/beacons,377,Sar backup export,2022-10-21 12:07:30,https://github.com/mcagov/beacons/pull/377
+mcagov/beacons,378,Added export SQL scripts to version control,2022-10-24 14:14:22,https://github.com/mcagov/beacons/pull/378
+mcagov/beacons,379,certificate updates from feedback,2022-10-24 16:59:45,https://github.com/mcagov/beacons/pull/379
+mcagov/beacons,380,Bump docker/setup-buildx-action from 1.6.0 to 2.2.1,2022-10-24 21:05:54,https://github.com/mcagov/beacons/pull/380
+mcagov/beacons,381,Bump @types/node from 16.4.13 to 18.11.4 in /backoffice,2022-10-24 21:25:14,https://github.com/mcagov/beacons/pull/381
+mcagov/beacons,382,Bump node from 16-alpine to 19-alpine in /backoffice,2022-10-24 21:26:09,https://github.com/mcagov/beacons/pull/382
+mcagov/beacons,383,Bump nginx from 1.21.6 to 1.23.2 in /opensearch/proxy,2022-10-24 21:26:11,https://github.com/mcagov/beacons/pull/383
+mcagov/beacons,384,Bump spring-boot-devtools from 2.6.6 to 2.7.5 in /service,2022-10-24 21:26:22,https://github.com/mcagov/beacons/pull/384
+mcagov/beacons,385,Bump hashicorp/aws from 4.28.0 to 4.36.1 in /maintenance-page,2022-10-24 21:26:26,https://github.com/mcagov/beacons/pull/385
+mcagov/beacons,386,Bump spring-boot-starter-web from 2.6.6 to 2.7.5 in /service,2022-10-24 21:26:29,https://github.com/mcagov/beacons/pull/386
+mcagov/beacons,387,Bump @material-table/core from 0.2.35 to 5.1.7 in /backoffice,2022-10-24 21:29:23,https://github.com/mcagov/beacons/pull/387
+mcagov/beacons,388,changes,2022-10-25 12:53:01,https://github.com/mcagov/beacons/pull/388
+mcagov/beacons,389,581 cover letters,2022-10-25 14:11:27,https://github.com/mcagov/beacons/pull/389
+mcagov/beacons,390,letter updates,2022-10-26 15:58:33,https://github.com/mcagov/beacons/pull/390
+mcagov/beacons,391,changes to letters,2022-10-27 11:16:24,https://github.com/mcagov/beacons/pull/391
+mcagov/beacons,392,changed legacy script to only include beacons modified on or after 1/…,2022-10-28 15:48:49,https://github.com/mcagov/beacons/pull/392
+mcagov/beacons,393,Bump cypress from 9.7.0 to 10.11.0,2022-10-31 21:04:57,https://github.com/mcagov/beacons/pull/393
+mcagov/beacons,394,Bump hashicorp/aws from 4.28.0 to 4.37.0 in /maintenance-page,2022-10-31 21:24:38,https://github.com/mcagov/beacons/pull/394
+mcagov/beacons,395,Bump @types/node from 16.4.13 to 18.11.8 in /backoffice,2022-10-31 21:25:59,https://github.com/mcagov/beacons/pull/395
+mcagov/beacons,396,Certificates footer,2022-11-01 12:34:00,https://github.com/mcagov/beacons/pull/396
+mcagov/beacons,397,Bump @xmldom/xmldom from 0.7.5 to 0.7.8 in /webapp,2022-11-01 18:48:17,https://github.com/mcagov/beacons/pull/397
+mcagov/beacons,398,Bump hashicorp/aws from 4.28.0 to 4.38.0 in /maintenance-page,2022-11-07 21:15:52,https://github.com/mcagov/beacons/pull/398
+mcagov/beacons,399,Bump @types/node from 16.4.13 to 18.11.9 in /backoffice,2022-11-07 21:17:50,https://github.com/mcagov/beacons/pull/399
+mcagov/beacons,400,600 design changes certslabelsletters,2022-11-08 12:27:27,https://github.com/mcagov/beacons/pull/400
+mcagov/beacons,401,Bump loader-utils from 2.0.2 to 2.0.3 in /backoffice,2022-11-09 01:02:06,https://github.com/mcagov/beacons/pull/401
+mcagov/beacons,402,Bump minimatch and recursive-readdir in /backoffice,2022-11-12 22:32:48,https://github.com/mcagov/beacons/pull/402
+mcagov/beacons,403,Joining to legacy_beacon_claim_event table in order to return deleted…,2022-11-14 17:39:47,https://github.com/mcagov/beacons/pull/403
+mcagov/beacons,404,Bump prettier-plugin-organize-imports from 2.3.4 to 3.2.0,2022-11-14 21:01:14,https://github.com/mcagov/beacons/pull/404
+mcagov/beacons,405,Bump cypress from 9.7.0 to 11.0.1,2022-11-14 21:01:24,https://github.com/mcagov/beacons/pull/405
+mcagov/beacons,406,Bump husky from 7.0.4 to 8.0.2,2022-11-14 21:01:31,https://github.com/mcagov/beacons/pull/406
+mcagov/beacons,407,Bump hashicorp/aws from 4.28.0 to 4.39.0 in /maintenance-page,2022-11-14 21:04:55,https://github.com/mcagov/beacons/pull/407
+mcagov/beacons,408,Bump loader-utils from 2.0.2 to 2.0.4 in /backoffice,2022-11-16 00:50:27,https://github.com/mcagov/beacons/pull/408
+mcagov/beacons,409,Bump typescript from 4.8.2 to 4.9.3,2022-11-21 21:06:41,https://github.com/mcagov/beacons/pull/409
+mcagov/beacons,410,Bump cypress from 9.7.0 to 11.1.0,2022-11-21 21:06:56,https://github.com/mcagov/beacons/pull/410
+mcagov/beacons,411,600 design changes certslabelsletters,2022-11-23 16:58:40,https://github.com/mcagov/beacons/pull/411
+mcagov/beacons,412,598 delete beacon record,2022-11-23 17:01:14,https://github.com/mcagov/beacons/pull/412
+mcagov/beacons,413,Bump prettier-plugin-organize-imports from 2.3.4 to 3.2.1,2022-11-28 21:01:42,https://github.com/mcagov/beacons/pull/413
+mcagov/beacons,414,Bump cypress from 9.7.0 to 11.2.0,2022-11-28 21:01:54,https://github.com/mcagov/beacons/pull/414
+mcagov/beacons,415,Bump prettier from 2.6.2 to 2.8.0,2022-11-28 21:02:00,https://github.com/mcagov/beacons/pull/415
+mcagov/beacons,416,Bump hashicorp/aws from 4.28.0 to 4.41.0 in /maintenance-page,2022-11-28 21:05:17,https://github.com/mcagov/beacons/pull/416
+mcagov/beacons,417,Bump junit-jupiter from 1.16.3 to 1.17.6 in /service,2022-11-28 21:06:27,https://github.com/mcagov/beacons/pull/417
+mcagov/beacons,418,Bump @material-table/core from 0.2.35 to 5.1.8 in /backoffice,2022-11-28 21:06:27,https://github.com/mcagov/beacons/pull/418
+mcagov/beacons,419,Bump spring-boot-starter-web from 2.6.6 to 3.0.0 in /service,2022-11-28 21:06:48,https://github.com/mcagov/beacons/pull/419
+mcagov/beacons,420,Bump spring-boot-devtools from 2.6.6 to 3.0.0 in /service,2022-11-28 21:09:02,https://github.com/mcagov/beacons/pull/420
+mcagov/beacons,421,Bump lint-staged from 11.2.6 to 13.0.4 in /backoffice,2022-11-28 21:09:33,https://github.com/mcagov/beacons/pull/421
+mcagov/beacons,422,Bump axios from 0.21.4 to 1.2.0 in /backoffice,2022-11-28 21:12:07,https://github.com/mcagov/beacons/pull/422
+mcagov/beacons,423,Bulk export,2022-11-29 12:08:54,https://github.com/mcagov/beacons/pull/423
+mcagov/beacons,424,adding pagination to bulk export search,2022-11-30 10:44:07,https://github.com/mcagov/beacons/pull/424
+mcagov/beacons,425,598 delete beacon record test fixes,2022-12-01 09:21:39,https://github.com/mcagov/beacons/pull/425
+mcagov/beacons,426,Delete beacon test feedback,2022-12-02 11:55:00,https://github.com/mcagov/beacons/pull/426
+mcagov/beacons,427,634 FOI request,2022-12-02 16:14:41,https://github.com/mcagov/beacons/pull/427
+mcagov/beacons,428,Bump hashicorp/aws from 4.28.0 to 4.45.0 in /maintenance-page,2022-12-05 21:04:46,https://github.com/mcagov/beacons/pull/428
+mcagov/beacons,429,Bump lint-staged from 11.2.6 to 13.1.0 in /backoffice,2022-12-05 21:05:05,https://github.com/mcagov/beacons/pull/429
+mcagov/beacons,430,Bump shedlock-provider-jdbc-template from 4.33.+ to 4.43.0 in /service,2022-12-05 21:05:23,https://github.com/mcagov/beacons/pull/430
+mcagov/beacons,431,Bump @types/node from 16.4.13 to 18.11.11 in /backoffice,2022-12-05 21:16:48,https://github.com/mcagov/beacons/pull/431
+mcagov/beacons,432,Bump axios from 0.21.4 to 1.2.1 in /backoffice,2022-12-05 21:17:35,https://github.com/mcagov/beacons/pull/432
+mcagov/beacons,433,GovNotify text changes,2022-12-06 15:29:45,https://github.com/mcagov/beacons/pull/433
+mcagov/beacons,434,Azure Group assigning functionality,2022-12-06 16:06:47,https://github.com/mcagov/beacons/pull/434
+mcagov/beacons,435,Hid delete beacon button and bulk export search button,2022-12-12 12:36:08,https://github.com/mcagov/beacons/pull/435
+mcagov/beacons,436,Bump cypress from 9.7.0 to 12.0.2,2022-12-12 21:01:37,https://github.com/mcagov/beacons/pull/436
+mcagov/beacons,437,Bump prettier from 2.6.2 to 2.8.1,2022-12-12 21:01:42,https://github.com/mcagov/beacons/pull/437
+mcagov/beacons,438,Bump typescript from 4.8.2 to 4.9.4,2022-12-12 21:01:52,https://github.com/mcagov/beacons/pull/438
+mcagov/beacons,439,Bump @types/node from 16.4.13 to 18.11.13 in /backoffice,2022-12-12 21:04:48,https://github.com/mcagov/beacons/pull/439
+mcagov/beacons,440,Bump hashicorp/aws from 4.28.0 to 4.46.0 in /maintenance-page,2022-12-12 21:05:20,https://github.com/mcagov/beacons/pull/440
+mcagov/beacons,441,Bump shedlock-provider-jdbc-template from 4.33.+ to 5.0.1 in /service,2022-12-12 21:08:23,https://github.com/mcagov/beacons/pull/441
+mcagov/beacons,442,642 bug migrated deleted status,2022-12-15 15:10:52,https://github.com/mcagov/beacons/pull/442
+mcagov/beacons,443,Bump cypress from 9.7.0 to 12.1.0,2022-12-19 21:00:57,https://github.com/mcagov/beacons/pull/443
+mcagov/beacons,444,Bump nginx from 1.21.6 to 1.23.3 in /opensearch/proxy,2022-12-19 21:03:18,https://github.com/mcagov/beacons/pull/444
+mcagov/beacons,445,Bump hashicorp/aws from 4.28.0 to 4.47.0 in /maintenance-page,2022-12-19 21:03:44,https://github.com/mcagov/beacons/pull/445
+mcagov/beacons,446,Bump hibernate-types-55 from 2.15.1 to 2.21.0 in /service,2022-12-19 21:04:07,https://github.com/mcagov/beacons/pull/446
+mcagov/beacons,447,Bump @types/node from 16.4.13 to 18.11.17 in /backoffice,2022-12-19 21:10:01,https://github.com/mcagov/beacons/pull/447
+mcagov/beacons,448,Export search changes ,2022-12-21 16:35:02,https://github.com/mcagov/beacons/pull/448
+mcagov/beacons,449,Bump cypress from 9.7.0 to 12.2.0,2022-12-26 21:01:18,https://github.com/mcagov/beacons/pull/449
+mcagov/beacons,450,Bump hibernate-types-55 from 2.15.1 to 2.21.1 in /service,2022-12-26 21:03:47,https://github.com/mcagov/beacons/pull/450
+mcagov/beacons,451,Bump hashicorp/aws from 4.28.0 to 4.48.0 in /maintenance-page,2022-12-26 21:03:47,https://github.com/mcagov/beacons/pull/451
+mcagov/beacons,452,Bump @types/node from 16.4.13 to 18.11.18 in /backoffice,2022-12-26 21:03:54,https://github.com/mcagov/beacons/pull/452
+mcagov/beacons,453,Bump spring-boot-starter-web from 2.6.6 to 3.0.1 in /service,2022-12-26 21:04:36,https://github.com/mcagov/beacons/pull/453
+mcagov/beacons,454,Bump spring-boot-devtools from 2.6.6 to 3.0.1 in /service,2022-12-26 21:05:08,https://github.com/mcagov/beacons/pull/454
+mcagov/beacons,455,Bump @material-table/core from 0.2.35 to 5.1.9 in /backoffice,2022-12-26 21:11:09,https://github.com/mcagov/beacons/pull/455
+mcagov/beacons,456,Bump @material-table/core from 0.2.35 to 6.0.2 in /backoffice,2023-01-02 21:06:37,https://github.com/mcagov/beacons/pull/456
+mcagov/beacons,457,Bump axios from 0.21.4 to 1.2.2 in /backoffice,2023-01-02 21:15:54,https://github.com/mcagov/beacons/pull/457
+mcagov/beacons,458,"Revert ""Sar backup export""",2023-01-04 15:17:21,https://github.com/mcagov/beacons/pull/458
+mcagov/beacons,459,Hide backup contingency button entirely,2023-01-04 15:59:49,https://github.com/mcagov/beacons/pull/459
+mcagov/beacons,460,Hide backup contingency button entirely,2023-01-05 11:03:02,https://github.com/mcagov/beacons/pull/460
+mcagov/beacons,461,Bump json5 from 1.0.1 to 1.0.2 in /backoffice,2023-01-08 10:27:27,https://github.com/mcagov/beacons/pull/461
+mcagov/beacons,462,Bump json5 from 1.0.1 to 1.0.2 in /tests,2023-01-08 19:34:44,https://github.com/mcagov/beacons/pull/462
+mcagov/beacons,463,Bump json5 from 2.2.1 to 2.2.3 in /webapp,2023-01-08 20:47:12,https://github.com/mcagov/beacons/pull/463
+mcagov/beacons,464,Hide backup contingency button entirely,2023-01-09 09:46:48,https://github.com/mcagov/beacons/pull/464
+mcagov/beacons,465,Revert the revert,2023-01-09 11:32:56,https://github.com/mcagov/beacons/pull/465
+mcagov/beacons,466,Hide backup contingency button entirely,2023-01-09 12:19:04,https://github.com/mcagov/beacons/pull/466
+mcagov/beacons,467,Hide backup contingency button entirely,2023-01-09 12:23:41,https://github.com/mcagov/beacons/pull/467
+mcagov/beacons,468,Bump cypress from 9.7.0 to 12.3.0,2023-01-09 21:01:18,https://github.com/mcagov/beacons/pull/468
+mcagov/beacons,469,Bump actions/setup-node from 3.1.1 to 3.6.0,2023-01-09 21:01:20,https://github.com/mcagov/beacons/pull/469
+mcagov/beacons,470,Bump husky from 7.0.4 to 8.0.3,2023-01-09 21:01:31,https://github.com/mcagov/beacons/pull/470
+mcagov/beacons,471,Bump prettier from 2.6.2 to 2.8.2,2023-01-09 21:01:38,https://github.com/mcagov/beacons/pull/471
+mcagov/beacons,472,Bump hashicorp/aws from 4.28.0 to 4.49.0 in /maintenance-page,2023-01-09 21:06:15,https://github.com/mcagov/beacons/pull/472
+mcagov/beacons,473,Bump @material-table/core from 0.2.35 to 6.1.6 in /backoffice,2023-01-09 21:06:28,https://github.com/mcagov/beacons/pull/473
+mcagov/beacons,474,Bump shedlock-provider-jdbc-template from 4.33.+ to 5.1.0 in /service,2023-01-09 21:06:54,https://github.com/mcagov/beacons/pull/474
+mcagov/beacons,475,"Bump jsonwebtoken, @azure/msal-node, next-auth and notifications-node-client in /webapp",2023-01-10 11:52:06,https://github.com/mcagov/beacons/pull/475
+mcagov/beacons,476,507 backup contingency,2023-01-13 16:04:04,https://github.com/mcagov/beacons/pull/476
+mcagov/beacons,477,updates from amigos feedback,2023-01-13 16:26:48,https://github.com/mcagov/beacons/pull/477
+mcagov/beacons,478,Bump prettier-plugin-organize-imports from 2.3.4 to 3.2.2,2023-01-16 21:01:22,https://github.com/mcagov/beacons/pull/478
+mcagov/beacons,479,Bump docker/build-push-action from 2.10.0 to 3.3.0,2023-01-16 21:01:23,https://github.com/mcagov/beacons/pull/479
+mcagov/beacons,480,Bump prettier from 2.6.2 to 2.8.3,2023-01-16 21:01:39,https://github.com/mcagov/beacons/pull/480
+mcagov/beacons,481,Bump hashicorp/aws from 4.28.0 to 4.50.0 in /maintenance-page,2023-01-16 21:05:13,https://github.com/mcagov/beacons/pull/481
+mcagov/beacons,482,Bump @material-table/core from 0.2.35 to 6.1.10 in /backoffice,2023-01-16 21:13:27,https://github.com/mcagov/beacons/pull/482
+mcagov/beacons,483,520 opensearch issue,2023-01-20 13:38:14,https://github.com/mcagov/beacons/pull/483
+mcagov/beacons,484,Bump hashicorp/aws from 4.28.0 to 4.51.0 in /maintenance-page,2023-01-23 21:06:18,https://github.com/mcagov/beacons/pull/484
+mcagov/beacons,485,Bump spring-boot-devtools from 2.6.6 to 3.0.2 in /service,2023-01-23 21:06:23,https://github.com/mcagov/beacons/pull/485
+mcagov/beacons,486,Bump spring-boot-starter-web from 2.6.6 to 3.0.2 in /service,2023-01-23 21:08:15,https://github.com/mcagov/beacons/pull/486
+mcagov/beacons,487,Bump axios from 0.21.4 to 1.2.3 in /backoffice,2023-01-23 21:13:02,https://github.com/mcagov/beacons/pull/487
+mcagov/beacons,488,520 opensearch issue,2023-01-30 11:13:23,https://github.com/mcagov/beacons/pull/488
+mcagov/beacons,489,600 design changes certslabelsletters,2023-01-30 12:20:07,https://github.com/mcagov/beacons/pull/489
+mcagov/beacons,490,Bump cypress from 9.7.0 to 12.4.1,2023-01-30 21:01:05,https://github.com/mcagov/beacons/pull/490
+mcagov/beacons,491,Bump docker/setup-buildx-action from 1.6.0 to 2.4.0,2023-01-30 21:01:52,https://github.com/mcagov/beacons/pull/491
+mcagov/beacons,492,Bump docker/build-push-action from 2.10.0 to 4.0.0,2023-01-30 21:01:57,https://github.com/mcagov/beacons/pull/492
+mcagov/beacons,493,Bump hashicorp/aws from 4.28.0 to 4.52.0 in /maintenance-page,2023-01-30 21:05:25,https://github.com/mcagov/beacons/pull/493
+mcagov/beacons,494,Bump @material-table/core from 0.2.35 to 6.1.11 in /backoffice,2023-01-30 21:05:32,https://github.com/mcagov/beacons/pull/494
+mcagov/beacons,495,Bump axios from 0.21.4 to 1.2.6 in /backoffice,2023-01-30 21:26:30,https://github.com/mcagov/beacons/pull/495
+mcagov/beacons,496,Address test feedback,2023-02-01 13:00:41,https://github.com/mcagov/beacons/pull/496
+mcagov/beacons,497,Update legacy beacon last modified date on beacon object inside legac…,2023-02-06 09:09:20,https://github.com/mcagov/beacons/pull/497
+mcagov/beacons,498,Bump docker/setup-buildx-action from 1.6.0 to 2.4.1,2023-02-06 21:01:30,https://github.com/mcagov/beacons/pull/498
+mcagov/beacons,499,Bump typescript from 4.8.2 to 4.9.5,2023-02-06 21:01:37,https://github.com/mcagov/beacons/pull/499
+mcagov/beacons,500,Bump cypress from 9.7.0 to 12.5.1,2023-02-06 21:01:53,https://github.com/mcagov/beacons/pull/500
+mcagov/beacons,501,Bump hashicorp/aws from 4.28.0 to 4.53.0 in /maintenance-page,2023-02-06 21:07:37,https://github.com/mcagov/beacons/pull/501
+mcagov/beacons,502,Bump @material-table/core from 0.2.35 to 6.1.12 in /backoffice,2023-02-06 21:08:26,https://github.com/mcagov/beacons/pull/502
+mcagov/beacons,503,Bump axios from 0.21.4 to 1.3.2 in /backoffice,2023-02-06 21:10:33,https://github.com/mcagov/beacons/pull/503
+mcagov/beacons,504,Bump @types/node from 16.4.13 to 18.11.19 in /backoffice,2023-02-06 21:20:33,https://github.com/mcagov/beacons/pull/504
+mcagov/beacons,505,600 design changes certslabelsletters,2023-02-07 12:22:57,https://github.com/mcagov/beacons/pull/505
+mcagov/beacons,506,Backup contingency feedback,2023-02-09 09:51:04,https://github.com/mcagov/beacons/pull/506
+mcagov/beacons,507,Bump prettier from 2.6.2 to 2.8.4,2023-02-13 21:57:13,https://github.com/mcagov/beacons/pull/507
+mcagov/beacons,508,Bump hashicorp/aws from 4.28.0 to 4.54.0 in /maintenance-page,2023-02-13 22:01:41,https://github.com/mcagov/beacons/pull/508
+mcagov/beacons,509,Bump axios from 0.21.4 to 1.3.3 in /backoffice,2023-02-13 22:03:02,https://github.com/mcagov/beacons/pull/509
+mcagov/beacons,510,Bump @types/node from 16.4.13 to 18.13.0 in /backoffice,2023-02-13 22:05:01,https://github.com/mcagov/beacons/pull/510
+mcagov/beacons,511,Bump lint-staged from 11.2.6 to 13.1.2 in /backoffice,2023-02-13 22:09:36,https://github.com/mcagov/beacons/pull/511
+mcagov/beacons,512,Bump @material-table/core from 0.2.35 to 6.1.13 in /backoffice,2023-02-13 22:30:20,https://github.com/mcagov/beacons/pull/512
+mcagov/beacons,513,Bump cypress from 9.7.0 to 12.6.0,2023-02-20 21:56:50,https://github.com/mcagov/beacons/pull/513
+mcagov/beacons,514,Bump hashicorp/aws from 4.28.0 to 4.55.0 in /maintenance-page,2023-02-20 22:00:24,https://github.com/mcagov/beacons/pull/514
+mcagov/beacons,515,Bump @types/node from 16.4.13 to 18.14.0 in /backoffice,2023-02-20 22:03:53,https://github.com/mcagov/beacons/pull/515
+mcagov/beacons,516,Bump cypress from 9.7.0 to 12.7.0,2023-02-27 21:13:31,https://github.com/mcagov/beacons/pull/516
+mcagov/beacons,517,Bump hashicorp/aws from 4.28.0 to 4.56.0 in /maintenance-page,2023-02-27 21:17:42,https://github.com/mcagov/beacons/pull/517
+mcagov/beacons,518,Bump org.springframework.boot:spring-boot-devtools from 2.6.6 to 3.0.3 in /service,2023-02-27 21:30:28,https://github.com/mcagov/beacons/pull/518
+mcagov/beacons,519,Bump axios from 0.21.4 to 1.3.4 in /backoffice,2023-02-27 21:32:31,https://github.com/mcagov/beacons/pull/519
+mcagov/beacons,520,Bump org.springframework.boot:spring-boot-starter-web from 2.6.6 to 3.0.3 in /service,2023-02-27 21:33:03,https://github.com/mcagov/beacons/pull/520
+mcagov/beacons,521,Bump @types/node from 16.4.13 to 18.14.2 in /backoffice,2023-02-27 21:44:28,https://github.com/mcagov/beacons/pull/521
+mcagov/beacons,522,377 duplicate beacons,2023-03-01 17:13:48,https://github.com/mcagov/beacons/pull/522
+mcagov/beacons,523,Bump @types/node from 16.4.13 to 18.14.6 in /backoffice,2023-03-06 22:03:32,https://github.com/mcagov/beacons/pull/523
+mcagov/beacons,524,Bump hashicorp/aws from 4.28.0 to 4.57.0 in /maintenance-page,2023-03-06 22:04:14,https://github.com/mcagov/beacons/pull/524
+mcagov/beacons,525,Bump net.javacrumbs.shedlock:shedlock-provider-jdbc-template from 4.33.+ to 5.2.0 in /service,2023-03-06 22:12:27,https://github.com/mcagov/beacons/pull/525
+mcagov/beacons,526,Bump org.springframework.boot:spring-boot-starter-web from 2.6.6 to 3.0.4 in /service,2023-03-06 22:12:31,https://github.com/mcagov/beacons/pull/526
+mcagov/beacons,527,Bump org.springframework.boot:spring-boot-devtools from 2.6.6 to 3.0.4 in /service,2023-03-06 22:13:53,https://github.com/mcagov/beacons/pull/527
+mcagov/beacons,528,678 bug delete legacy beacon,2023-04-11 11:40:28,https://github.com/mcagov/beacons/pull/528
+mcagov/beacons,529,Certificate changes,2023-04-11 13:52:12,https://github.com/mcagov/beacons/pull/529
+mcagov/beacons,530,use read only repositories to get data,2023-04-14 12:02:40,https://github.com/mcagov/beacons/pull/530
+mcagov/beacons,531,Certificate feedback,2023-04-17 15:23:00,https://github.com/mcagov/beacons/pull/531
+mcagov/beacons,532,updated files,2023-04-27 15:32:43,https://github.com/mcagov/beacons/pull/532
+mcagov/beacons,533,Add latest export SQL code including date range,2023-05-02 10:47:26,https://github.com/mcagov/beacons/pull/533
+mcagov/beacons,534,489 manually claim legacy beacon,2023-05-03 11:40:08,https://github.com/mcagov/beacons/pull/534
+mcagov/beacons,535,Account holder view,2023-05-03 14:14:27,https://github.com/mcagov/beacons/pull/535
+mcagov/beacons,536,Account holder search,2023-05-05 12:04:17,https://github.com/mcagov/beacons/pull/536
+mcagov/beacons,537,account holder beacons table,2023-05-11 15:29:26,https://github.com/mcagov/beacons/pull/537
+mcagov/beacons,538,Edit account holder,2023-06-06 15:29:47,https://github.com/mcagov/beacons/pull/538
+mcagov/beacons,539,Edit account holder,2023-07-06 09:29:10,https://github.com/mcagov/beacons/pull/539
+mcagov/beacons,540,refactoring,2023-07-18 14:10:05,https://github.com/mcagov/beacons/pull/540
+mcagov/beacons,541,Add first and last page jump button to table,2023-07-31 13:32:59,https://github.com/mcagov/beacons/pull/541
+mcagov/beacons,542,"added more legacy data, added recovery email",2023-07-31 14:51:18,https://github.com/mcagov/beacons/pull/542
+mcagov/beacons,543,488 country list,2023-08-01 09:32:25,https://github.com/mcagov/beacons/pull/543
+mcagov/beacons,544,Delete account holder,2023-08-01 14:27:07,https://github.com/mcagov/beacons/pull/544
+mcagov/beacons,545,Pipeline updates,2023-08-04 13:01:25,https://github.com/mcagov/beacons/pull/545
+mcagov/beacons,546,Dependency updates,2023-08-04 13:24:57,https://github.com/mcagov/beacons/pull/546
+mcagov/beacons,547,Bump adoptopenjdk from 11-jre-hotspot to 13-jre-hotspot in /service,2023-08-07 21:11:41,https://github.com/mcagov/beacons/pull/547
+mcagov/beacons,548,Bump hashicorp/aws from 4.28.0 to 5.11.0 in /maintenance-page,2023-08-07 21:18:12,https://github.com/mcagov/beacons/pull/548
+mcagov/beacons,549,Bump prettier-plugin-java from 1.6.2 to 2.2.0,2023-08-07 21:27:43,https://github.com/mcagov/beacons/pull/549
+mcagov/beacons,550,Bump husky from 7.0.4 to 8.0.3,2023-08-07 21:27:57,https://github.com/mcagov/beacons/pull/550
+mcagov/beacons,551,Bump dotenv from 16.0.2 to 16.3.1,2023-08-07 21:28:09,https://github.com/mcagov/beacons/pull/551
+mcagov/beacons,552,Bump cypress from 9.7.0 to 12.17.3,2023-08-07 21:28:26,https://github.com/mcagov/beacons/pull/552
+mcagov/beacons,553,Bump typescript from 4.8.2 to 5.1.6,2023-08-07 21:28:42,https://github.com/mcagov/beacons/pull/553
+mcagov/beacons,554,Bump org.springdoc:springdoc-openapi-ui from 1.6.7 to 1.7.0 in /service,2023-08-07 21:29:08,https://github.com/mcagov/beacons/pull/554
+mcagov/beacons,555,Bump org.springframework.boot:spring-boot-starter-web from 2.6.6 to 3.1.2 in /service,2023-08-07 21:29:16,https://github.com/mcagov/beacons/pull/555
+mcagov/beacons,556,Bump io.spring.dependency-management from 1.0.11.RELEASE to 1.1.2 in /service,2023-08-07 21:29:21,https://github.com/mcagov/beacons/pull/556
+mcagov/beacons,557,Bump org.springframework.boot:spring-boot-starter-test from 2.6.7 to 3.1.2 in /service,2023-08-07 21:29:31,https://github.com/mcagov/beacons/pull/557
+mcagov/beacons,558,Bump org.springframework.boot:spring-boot-starter-data-rest from 2.6.6 to 3.1.2 in /service,2023-08-07 21:29:39,https://github.com/mcagov/beacons/pull/558
+mcagov/beacons,559,Bump node from 16-alpine to 20-alpine in /backoffice,2023-08-07 21:30:46,https://github.com/mcagov/beacons/pull/559
+mcagov/beacons,560,Bump nginx from 1.21.6 to 1.25.1 in /opensearch/proxy,2023-08-07 21:32:13,https://github.com/mcagov/beacons/pull/560
+mcagov/beacons,561,Bump date-fns from 2.29.2 to 2.30.0 in /backoffice,2023-08-07 21:43:02,https://github.com/mcagov/beacons/pull/561
+mcagov/beacons,562,Bump @azure/msal-browser from 2.28.1 to 2.38.0 in /backoffice,2023-08-07 21:43:59,https://github.com/mcagov/beacons/pull/562
+mcagov/beacons,563,Bump express from 4.18.1 to 4.18.2 in /backoffice,2023-08-07 21:44:51,https://github.com/mcagov/beacons/pull/563
+mcagov/beacons,564,Bump @types/jest from 27.5.2 to 29.5.3 in /backoffice,2023-08-07 21:45:28,https://github.com/mcagov/beacons/pull/564
+mcagov/beacons,565,Bump lint-staged from 11.2.6 to 13.2.3 in /backoffice,2023-08-07 21:46:06,https://github.com/mcagov/beacons/pull/565
+mcagov/beacons,566,Bump hashicorp/aws from 4.28.0 to 5.12.0 in /maintenance-page,2023-08-14 21:45:50,https://github.com/mcagov/beacons/pull/566
+mcagov/beacons,567,Bump lint-staged from 11.2.6 to 14.0.0 in /backoffice,2023-08-14 21:54:21,https://github.com/mcagov/beacons/pull/567
+mcagov/beacons,568,Bump io.spring.dependency-management from 1.0.11.RELEASE to 1.1.3 in /service,2023-08-14 21:59:07,https://github.com/mcagov/beacons/pull/568
+mcagov/beacons,569,Bump @azure/msal-browser from 2.28.1 to 2.38.1 in /backoffice,2023-08-14 21:59:38,https://github.com/mcagov/beacons/pull/569
+mcagov/beacons,570,Bump nginx from 1.21.6 to 1.25.2 in /opensearch/proxy,2023-08-21 21:22:53,https://github.com/mcagov/beacons/pull/570
+mcagov/beacons,571,Bump hashicorp/aws from 4.28.0 to 5.13.1 in /maintenance-page,2023-08-21 21:27:27,https://github.com/mcagov/beacons/pull/571
+mcagov/beacons,572,Bump cypress-io/github-action from 5 to 6,2023-08-21 21:41:41,https://github.com/mcagov/beacons/pull/572
+mcagov/beacons,573,Bump lint-staged from 11.2.6 to 14.0.1 in /backoffice,2023-08-21 21:44:24,https://github.com/mcagov/beacons/pull/573
+mcagov/beacons,574,Bump cypress from 9.7.0 to 12.17.4,2023-08-21 21:47:22,https://github.com/mcagov/beacons/pull/574
+mcagov/beacons,575,Bump prettier-plugin-java from 1.6.2 to 2.3.0,2023-08-21 21:47:32,https://github.com/mcagov/beacons/pull/575
+mcagov/beacons,576,Bump hashicorp/aws from 4.28.0 to 5.14.0 in /maintenance-page,2023-08-28 21:07:51,https://github.com/mcagov/beacons/pull/576
+mcagov/beacons,577,Bump typescript from 4.8.2 to 5.2.2,2023-08-28 21:22:47,https://github.com/mcagov/beacons/pull/577
+mcagov/beacons,578,Bump org.springframework.boot:spring-boot-starter-web from 2.6.6 to 3.1.3 in /service,2023-08-28 21:24:26,https://github.com/mcagov/beacons/pull/578
+mcagov/beacons,579,Bump org.springframework.boot:spring-boot-starter-data-rest from 2.6.6 to 3.1.3 in /service,2023-08-28 21:24:47,https://github.com/mcagov/beacons/pull/579
+mcagov/beacons,580,Bump org.springframework.boot:spring-boot-starter-test from 2.6.7 to 3.1.3 in /service,2023-08-28 21:25:22,https://github.com/mcagov/beacons/pull/580
+mcagov/beacons,581,Bump @types/jest from 27.5.2 to 29.5.4 in /backoffice,2023-08-28 21:41:27,https://github.com/mcagov/beacons/pull/581
+mcagov/beacons,582,Bump @azure/msal-browser from 2.28.1 to 2.38.2 in /backoffice,2023-08-28 21:41:58,https://github.com/mcagov/beacons/pull/582
+mcagov/beacons,583,Bump aws-actions/configure-aws-credentials from 2 to 3,2023-08-28 21:56:44,https://github.com/mcagov/beacons/pull/583
+mcagov/beacons,584,Bump @adobe/css-tools from 4.0.1 to 4.3.1 in /backoffice,2023-08-30 00:22:35,https://github.com/mcagov/beacons/pull/584
+mcagov/beacons,585,Ah mui table,2023-08-31 10:30:33,https://github.com/mcagov/beacons/pull/585
+mcagov/beacons,586,Bump word-wrap from 1.2.3 to 1.2.5 in /webapp,2023-08-31 10:32:43,https://github.com/mcagov/beacons/pull/586
+mcagov/beacons,587,Bump semver from 5.7.1 to 5.7.2 in /webapp,2023-08-31 10:32:43,https://github.com/mcagov/beacons/pull/587
+mcagov/beacons,588,Bump semver from 5.7.1 to 5.7.2 in /backoffice,2023-08-31 10:32:48,https://github.com/mcagov/beacons/pull/588
+mcagov/beacons,589,Bump @cypress/request and cypress,2023-08-31 10:32:49,https://github.com/mcagov/beacons/pull/589
+mcagov/beacons,590,Bump @cypress/request and cypress in /webapp,2023-08-31 10:33:16,https://github.com/mcagov/beacons/pull/590
+mcagov/beacons,591,Bump @cypress/request and cypress in /tests,2023-08-31 10:33:18,https://github.com/mcagov/beacons/pull/591
+mcagov/beacons,592,Bump word-wrap from 1.2.3 to 1.2.5 in /backoffice,2023-08-31 10:33:25,https://github.com/mcagov/beacons/pull/592
+mcagov/beacons,593,updates,2023-08-31 11:35:43,https://github.com/mcagov/beacons/pull/593
+mcagov/beacons,594,Add default toolbar to Account Holder table,2023-08-31 14:50:17,https://github.com/mcagov/beacons/pull/594
+mcagov/beacons,595,Bump actions/checkout from 3 to 4,2023-09-04 21:19:19,https://github.com/mcagov/beacons/pull/595
+mcagov/beacons,596,Bump hashicorp/aws from 4.28.0 to 5.15.0 in /maintenance-page,2023-09-04 21:41:12,https://github.com/mcagov/beacons/pull/596
+mcagov/beacons,597,Bump prettier-plugin-java from 1.6.2 to 2.3.1,2023-09-04 21:42:12,https://github.com/mcagov/beacons/pull/597
+hoshotakamoto/banzukesurfing,1,Create index.html,2023-07-01 18:29:36,https://github.com/hoshotakamoto/banzukesurfing/pull/1
+hoshotakamoto/banzukesurfing,2,Create game.js,2023-07-01 18:33:31,https://github.com/hoshotakamoto/banzukesurfing/pull/2
+hoshotakamoto/banzukesurfing,3,Unit Test Setup: jest,2023-07-03 06:44:40,https://github.com/hoshotakamoto/banzukesurfing/pull/3
+hoshotakamoto/banzukesurfing,4,Incorporate local storage to put some state in the game.,2023-07-03 06:57:07,https://github.com/hoshotakamoto/banzukesurfing/pull/4
+hoshotakamoto/banzukesurfing,5,Addressing module not defined error in browser.,2023-07-03 15:59:32,https://github.com/hoshotakamoto/banzukesurfing/pull/5
+hoshotakamoto/banzukesurfing,6,Update index.html,2023-07-03 16:29:16,https://github.com/hoshotakamoto/banzukesurfing/pull/6
+hoshotakamoto/banzukesurfing,7,Add more stuff to look at.,2023-07-03 18:44:13,https://github.com/hoshotakamoto/banzukesurfing/pull/7
+hoshotakamoto/banzukesurfing,8,Refactoring for interactivity.,2023-07-03 20:12:31,https://github.com/hoshotakamoto/banzukesurfing/pull/8
+hoshotakamoto/banzukesurfing,9,Set up npm test in a github action.,2023-07-04 20:15:49,https://github.com/hoshotakamoto/banzukesurfing/pull/9
+hoshotakamoto/banzukesurfing,10,Deploy the HTML on pull requests.,2023-07-04 20:54:51,https://github.com/hoshotakamoto/banzukesurfing/pull/10
+hoshotakamoto/banzukesurfing,11,Get backfilledResults to show non-empty.,2023-07-04 21:34:57,https://github.com/hoshotakamoto/banzukesurfing/pull/11
+hoshotakamoto/banzukesurfing,12,Create user.js and user.test.js,2023-07-04 22:07:17,https://github.com/hoshotakamoto/banzukesurfing/pull/12
+hoshotakamoto/banzukesurfing,13,Move switchUser over to user.js and test it.,2023-07-04 22:17:32,https://github.com/hoshotakamoto/banzukesurfing/pull/13
+hoshotakamoto/banzukesurfing,14,Integrate the new user.js into game.js and dedupe logic.,2023-07-04 22:30:52,https://github.com/hoshotakamoto/banzukesurfing/pull/14
+hoshotakamoto/banzukesurfing,15,Display full localStorage instead of 1 user.,2023-07-04 23:04:26,https://github.com/hoshotakamoto/banzukesurfing/pull/15
+hoshotakamoto/banzukesurfing,16,Better object model - add wave.js and basho.js,2023-07-05 04:37:54,https://github.com/hoshotakamoto/banzukesurfing/pull/16
+hoshotakamoto/banzukesurfing,17,Create pick.js,2023-07-05 17:51:37,https://github.com/hoshotakamoto/banzukesurfing/pull/17
+hoshotakamoto/banzukesurfing,18,Set up wave portal.,2023-07-05 18:06:11,https://github.com/hoshotakamoto/banzukesurfing/pull/18
+VOICEVOX/pyopenjtalk,1,windowsのパスシステムでも読み込めるように変更,2021-12-16 17:25:42,https://github.com/VOICEVOX/pyopenjtalk/pull/1
+VOICEVOX/pyopenjtalk,2,ユーザー辞書機能の追加,2021-12-16 17:30:29,https://github.com/VOICEVOX/pyopenjtalk/pull/2
+VOICEVOX/pyopenjtalk,3,ユーザー辞書機能の追加（再PR）,2021-12-17 13:42:32,https://github.com/VOICEVOX/pyopenjtalk/pull/3
+VOICEVOX/pyopenjtalk,4,remove numpy version limit,2022-01-08 16:53:10,https://github.com/VOICEVOX/pyopenjtalk/pull/4
+VOICEVOX/pyopenjtalk,5,ユーザー辞書の適用をやめる関数を追加,2022-01-24 12:31:28,https://github.com/VOICEVOX/pyopenjtalk/pull/5
+VOICEVOX/pyopenjtalk,6,openjtalkを1.11にアップデート,2022-01-31 15:54:37,https://github.com/VOICEVOX/pyopenjtalk/pull/6
+VOICEVOX/pyopenjtalk,7,"Revert ""openjtalkを1.11にアップデート (#6)""",2022-01-31 16:23:16,https://github.com/VOICEVOX/pyopenjtalk/pull/7
+VOICEVOX/pyopenjtalk,8,Submoduleを更新してopenjtalk1.11にアップデート,2022-01-31 16:50:47,https://github.com/VOICEVOX/pyopenjtalk/pull/8
+VOICEVOX/pyopenjtalk,9,辞書を正規化する,2022-02-08 22:46:52,https://github.com/VOICEVOX/pyopenjtalk/pull/9
+VOICEVOX/pyopenjtalk,10,use safer text2mecab,2022-04-14 10:41:52,https://github.com/VOICEVOX/pyopenjtalk/pull/10
+VOICEVOX/pyopenjtalk,11,#384 openjtalk::run_frontend入力バイト数(<=8192)チェックの追加,2022-04-15 14:18:31,https://github.com/VOICEVOX/pyopenjtalk/pull/11
+VOICEVOX/pyopenjtalk,12,openjtalkを更新,2022-06-21 15:47:31,https://github.com/VOICEVOX/pyopenjtalk/pull/12
+VOICEVOX/pyopenjtalk,13,Merge r9y9 0.2.0,2022-06-21 16:23:30,https://github.com/VOICEVOX/pyopenjtalk/pull/13
+VOICEVOX/pyopenjtalk,14,openjtalkのパスUTF化に追従する,2022-09-10 14:42:52,https://github.com/VOICEVOX/pyopenjtalk/pull/14
+VOICEVOX/pyopenjtalk,16,Merge r9y9 0.3.0,2023-02-02 01:06:43,https://github.com/VOICEVOX/pyopenjtalk/pull/16
+VOICEVOX/pyopenjtalk,17,Fork先と間違えてPR出してしまいました。大変失礼しました。,2023-06-01 06:26:49,https://github.com/VOICEVOX/pyopenjtalk/pull/17
+VOICEVOX/pyopenjtalk,18,BLD: ビルド時に使用するcythonバージョンを制限する,2023-07-18 10:09:33,https://github.com/VOICEVOX/pyopenjtalk/pull/18
+Wissididom/Bonbon-Reminder-StreamElements,1,Migrate to use StreamElements IDs in `.env` instead of twitch loginnames,2023-05-04 13:18:45,https://github.com/Wissididom/Bonbon-Reminder-StreamElements/pull/1
+Wissididom/Bonbon-Reminder-StreamElements,2,Add prettier for formatting,2023-07-08 20:02:34,https://github.com/Wissididom/Bonbon-Reminder-StreamElements/pull/2
+FixMyBerlin/atlas-app,1,"Rework system to use a central `mapDataConfig`, update UI design",2022-08-31 04:39:10,https://github.com/FixMyBerlin/atlas-app/pull/1
+FixMyBerlin/atlas-app,6,Optimistic update,2022-11-21 20:51:45,https://github.com/FixMyBerlin/atlas-app/pull/6
+FixMyBerlin/atlas-app,7,Optimistic update — merge,2022-11-22 09:19:44,https://github.com/FixMyBerlin/atlas-app/pull/7
+FixMyBerlin/atlas-app,8,25-11-2022: First Release,2022-11-25 13:59:57,https://github.com/FixMyBerlin/atlas-app/pull/8
+FixMyBerlin/atlas-app,9,Release 2022-11-30,2022-11-30 14:04:35,https://github.com/FixMyBerlin/atlas-app/pull/9
+FixMyBerlin/atlas-app,10,Release 2022-11-30b,2022-11-30 14:44:34,https://github.com/FixMyBerlin/atlas-app/pull/10
+FixMyBerlin/atlas-app,11,Release 2022-12-07,2022-12-07 13:28:02,https://github.com/FixMyBerlin/atlas-app/pull/11
+FixMyBerlin/atlas-app,12,Bikelane centerline data,2022-12-19 15:51:33,https://github.com/FixMyBerlin/atlas-app/pull/12
+FixMyBerlin/atlas-app,13,WIP: Calculator Feature for Parking Data,2023-02-02 15:18:38,https://github.com/FixMyBerlin/atlas-app/pull/13
+FixMyBerlin/atlas-app,14,Release 2023-03-09,2023-03-09 13:51:43,https://github.com/FixMyBerlin/atlas-app/pull/14
+FixMyBerlin/atlas-app,15,Release 2023-03-09,2023-03-09 15:58:57,https://github.com/FixMyBerlin/atlas-app/pull/15
+FixMyBerlin/atlas-app,16,Release 2023-03-11,2023-03-11 12:38:19,https://github.com/FixMyBerlin/atlas-app/pull/16
+FixMyBerlin/atlas-app,17,Provide more translations; some fixes/appovements,2023-03-12 22:56:31,https://github.com/FixMyBerlin/atlas-app/pull/17
+FixMyBerlin/atlas-app,18,Define Layer Order based on Geometry Type,2023-03-13 12:21:18,https://github.com/FixMyBerlin/atlas-app/pull/18
+FixMyBerlin/atlas-app,19,Release 2023-04-14,2023-03-14 08:31:55,https://github.com/FixMyBerlin/atlas-app/pull/19
+FixMyBerlin/atlas-app,20,Comment option in verification dialog,2023-03-14 16:24:59,https://github.com/FixMyBerlin/atlas-app/pull/20
+FixMyBerlin/atlas-app,21,Release 2023-03-15 +Comments,2023-03-15 21:36:26,https://github.com/FixMyBerlin/atlas-app/pull/21
+FixMyBerlin/atlas-app,22,Release 2023-03-20,2023-03-20 08:08:07,https://github.com/FixMyBerlin/atlas-app/pull/22
+FixMyBerlin/atlas-app,29,Release 2023-03-31,2023-03-29 11:32:05,https://github.com/FixMyBerlin/atlas-app/pull/29
+FixMyBerlin/atlas-app,30,Release 2023-03-29,2023-03-29 14:55:19,https://github.com/FixMyBerlin/atlas-app/pull/30
+FixMyBerlin/atlas-app,31,Release 2023-03-31,2023-03-31 12:28:09,https://github.com/FixMyBerlin/atlas-app/pull/31
+FixMyBerlin/atlas-app,32,Release 2023-04-15,2023-04-15 05:11:18,https://github.com/FixMyBerlin/atlas-app/pull/32
+FixMyBerlin/atlas-app,33,Release 2023-04-27,2023-04-27 09:49:04,https://github.com/FixMyBerlin/atlas-app/pull/33
+FixMyBerlin/atlas-app,34,Release 2023-05-11,2023-05-11 11:09:48,https://github.com/FixMyBerlin/atlas-app/pull/34
+FixMyBerlin/atlas-app,35,Release 2023-06-01,2023-06-01 09:13:46,https://github.com/FixMyBerlin/atlas-app/pull/35
+FixMyBerlin/atlas-app,37,Release 2023-06-07,2023-06-07 12:53:15,https://github.com/FixMyBerlin/atlas-app/pull/37
+FixMyBerlin/atlas-app,38,Release 2023-06-07,2023-06-07 13:49:51,https://github.com/FixMyBerlin/atlas-app/pull/38
+FixMyBerlin/atlas-app,39,Release 2023-07-11,2023-07-11 12:38:39,https://github.com/FixMyBerlin/atlas-app/pull/39
+FixMyBerlin/atlas-app,40,Add new user,2023-07-12 10:12:54,https://github.com/FixMyBerlin/atlas-app/pull/40
+FixMyBerlin/atlas-app,41,Release 2023-07-17,2023-07-17 12:50:49,https://github.com/FixMyBerlin/atlas-app/pull/41
+FixMyBerlin/atlas-app,42,"Update config to handle new stats attributes (on_kerb, half_on_kerb)",2023-07-23 19:55:22,https://github.com/FixMyBerlin/atlas-app/pull/42
+FixMyBerlin/atlas-app,43,Release 2023-08-01,2023-08-01 12:04:44,https://github.com/FixMyBerlin/atlas-app/pull/43
+FixMyBerlin/atlas-app,44,Release 2023-08-29 +OsmNotes +UI changes +Data changes,2023-08-03 11:28:40,https://github.com/FixMyBerlin/atlas-app/pull/44
+FixMyBerlin/atlas-app,45,Add OSM Notes Layer,2023-08-14 07:32:55,https://github.com/FixMyBerlin/atlas-app/pull/45
+FixMyBerlin/atlas-app,46,Release 2023-08-30,2023-08-30 09:22:55,https://github.com/FixMyBerlin/atlas-app/pull/46
+laravel-json-api/core,1,[Feature] Add initial resource object implementation,2020-04-23 08:43:37,https://github.com/laravel-json-api/core/pull/1
+laravel-json-api/core,2,[Feature] Serialize resources using schemas,2021-01-30 16:30:19,https://github.com/laravel-json-api/core/pull/2
+laravel-json-api/core,3,Resolve the server from the container,2021-02-24 13:30:44,https://github.com/laravel-json-api/core/pull/3
+laravel-json-api/core,5,Add ability to override the request,2021-04-22 17:13:37,https://github.com/laravel-json-api/core/pull/5
+laravel-json-api/core,7,Fix return types for PHP 8.1,2022-01-03 23:12:24,https://github.com/laravel-json-api/core/pull/7
+laravel-json-api/core,8,feat: allow conditionally setting eager load,2023-01-06 14:35:26,https://github.com/laravel-json-api/core/pull/8
+laravel-json-api/core,9,Allow stdClass input values for ArrayHash properties,2023-03-04 16:48:08,https://github.com/laravel-json-api/core/pull/9
+laravel-json-api/core,10,Use correct resolver for type,2023-03-27 14:24:18,https://github.com/laravel-json-api/core/pull/10
+laravel-json-api/core,11,"feat: add commands, queries and actions",2023-06-04 16:28:12,https://github.com/laravel-json-api/core/pull/11
+laravel-json-api/core,12,Feat/matches ids ulid,2023-07-13 15:37:41,https://github.com/laravel-json-api/core/pull/12
+jefftriplett/frontmatter-cli,1,:copyright: Adds LICENSE,2018-01-23 03:26:01,https://github.com/jefftriplett/frontmatter-cli/pull/1
+jefftriplett/frontmatter-cli,2,Bump pyyaml from 3.12 to 5.1,2019-10-03 15:15:33,https://github.com/jefftriplett/frontmatter-cli/pull/2
+jefftriplett/frontmatter-cli,3,Bump pyyaml from 3.12 to 5.4,2021-03-25 21:30:19,https://github.com/jefftriplett/frontmatter-cli/pull/3
+jefftriplett/frontmatter-cli,4,Bump wheel from 0.36.2 to 0.38.1,2022-12-26 21:36:13,https://github.com/jefftriplett/frontmatter-cli/pull/4
+jefftriplett/frontmatter-cli,6,Support deep frontmatter property setting using pydash,2023-06-08 13:41:47,https://github.com/jefftriplett/frontmatter-cli/pull/6
+ryoikegata/template-ph3-website,1,Add:環境構築,2023-06-11 01:27:42,https://github.com/ryoikegata/template-ph3-website/pull/1
+ryoikegata/template-ph3-website,2,Update:管理者画面にした,2023-07-03 06:23:53,https://github.com/ryoikegata/template-ph3-website/pull/2
+ryoikegata/template-ph3-website,3,バリデーション作成,2023-07-24 01:37:42,https://github.com/ryoikegata/template-ph3-website/pull/3
+StreamSG/ABCWorkshop,2,Added text to app component,2022-09-08 03:58:32,https://github.com/StreamSG/ABCWorkshop/pull/2
+StreamSG/ABCWorkshop,3,Added some more html and also attempted to add bootstrap to angular.json,2022-09-08 04:13:32,https://github.com/StreamSG/ABCWorkshop/pull/3
+StreamSG/ABCWorkshop,4,moved html to touch-n-go,2022-09-18 01:03:42,https://github.com/StreamSG/ABCWorkshop/pull/4
+StreamSG/ABCWorkshop,5,Long overdue code merges,2022-11-14 07:53:37,https://github.com/StreamSG/ABCWorkshop/pull/5
+StreamSG/ABCWorkshop,6,Micah,2022-11-14 07:57:08,https://github.com/StreamSG/ABCWorkshop/pull/6
+StreamSG/ABCWorkshop,7,created new favicon lightning design,2022-11-15 01:35:58,https://github.com/StreamSG/ABCWorkshop/pull/7
+StreamSG/ABCWorkshop,8,Micah,2022-11-16 21:46:04,https://github.com/StreamSG/ABCWorkshop/pull/8
+StreamSG/ABCWorkshop,9,Typo corrections,2022-11-22 02:56:06,https://github.com/StreamSG/ABCWorkshop/pull/9
+StreamSG/ABCWorkshop,10,"Micah branch, mainly weTrack tickets",2022-11-22 05:29:08,https://github.com/StreamSG/ABCWorkshop/pull/10
+StreamSG/ABCWorkshop,11,proposed changes for team to go over,2022-11-22 14:07:29,https://github.com/StreamSG/ABCWorkshop/pull/11
+StreamSG/ABCWorkshop,12,modified:   src/app/components/office-info/office-info.component.html,2022-11-22 19:18:14,https://github.com/StreamSG/ABCWorkshop/pull/12
+StreamSG/ABCWorkshop,13,Merge Micah branch to master. Reconciled issues with Kerry's master push,2022-12-03 20:58:26,https://github.com/StreamSG/ABCWorkshop/pull/13
+StreamSG/ABCWorkshop,14,Tylerregan,2022-12-13 02:34:05,https://github.com/StreamSG/ABCWorkshop/pull/14
+StreamSG/ABCWorkshop,15,removed inline style from homepage line 53,2022-12-13 03:52:47,https://github.com/StreamSG/ABCWorkshop/pull/15
+StreamSG/ABCWorkshop,16,tylerRegan changes to push to master,2022-12-14 04:19:37,https://github.com/StreamSG/ABCWorkshop/pull/16
+StreamSG/ABCWorkshop,17,Navbar update,2022-12-15 17:34:25,https://github.com/StreamSG/ABCWorkshop/pull/17
+StreamSG/ABCWorkshop,18,"Moved all ""view"" components into view folder",2022-12-16 04:40:15,https://github.com/StreamSG/ABCWorkshop/pull/18
+StreamSG/ABCWorkshop,19,Bugfix/update weather alert description parsing,2022-12-17 04:01:44,https://github.com/StreamSG/ABCWorkshop/pull/19
+StreamSG/ABCWorkshop,20,"Revert ""Navbar update""",2022-12-18 04:02:11,https://github.com/StreamSG/ABCWorkshop/pull/20
+StreamSG/ABCWorkshop,21,update,2022-12-18 04:59:30,https://github.com/StreamSG/ABCWorkshop/pull/21
+StreamSG/ABCWorkshop,22,Kerry view more link,2022-12-18 23:02:19,https://github.com/StreamSG/ABCWorkshop/pull/22
+StreamSG/ABCWorkshop,23,added index2.html A and button.css file,2022-12-19 02:22:33,https://github.com/StreamSG/ABCWorkshop/pull/23
+StreamSG/ABCWorkshop,24,Trying to PR again,2022-12-20 01:18:36,https://github.com/StreamSG/ABCWorkshop/pull/24
+StreamSG/ABCWorkshop,25,Sos,2022-12-20 01:46:13,https://github.com/StreamSG/ABCWorkshop/pull/25
+StreamSG/ABCWorkshop,26,dispatch button,2022-12-20 05:18:33,https://github.com/StreamSG/ABCWorkshop/pull/26
+StreamSG/ABCWorkshop,27,Job list micah,2022-12-20 05:44:48,https://github.com/StreamSG/ABCWorkshop/pull/27
+StreamSG/ABCWorkshop,28,Expansion weather aaron kerry,2022-12-21 05:00:20,https://github.com/StreamSG/ABCWorkshop/pull/28
+StreamSG/ABCWorkshop,29,Bugfix/show weather alerts on job page,2022-12-22 04:57:32,https://github.com/StreamSG/ABCWorkshop/pull/29
+StreamSG/ABCWorkshop,30,Viewswap,2022-12-22 05:37:29,https://github.com/StreamSG/ABCWorkshop/pull/30
+StreamSG/ABCWorkshop,31,Weather Alert Timer Bar and Auto Top Scroll,2022-12-22 06:05:29,https://github.com/StreamSG/ABCWorkshop/pull/31
+StreamSG/ABCWorkshop,32,merge missed addition,2022-12-22 18:15:41,https://github.com/StreamSG/ABCWorkshop/pull/32
+StreamSG/ABCWorkshop,33,Feature/weather alert link to job aid,2022-12-22 21:14:16,https://github.com/StreamSG/ABCWorkshop/pull/33
+StreamSG/ABCWorkshop,34,Feature/adding backend,2023-03-03 01:24:18,https://github.com/StreamSG/ABCWorkshop/pull/34
+StreamSG/ABCWorkshop,35,Final touches micah,2023-03-30 02:15:20,https://github.com/StreamSG/ABCWorkshop/pull/35
+StreamSG/ABCWorkshop,36,Feature/request job button,2023-04-20 03:40:53,https://github.com/StreamSG/ABCWorkshop/pull/36
+StreamSG/ABCWorkshop,37,Origin/feature/login,2023-04-22 04:44:53,https://github.com/StreamSG/ABCWorkshop/pull/37
+StreamSG/ABCWorkshop,38,Feature/header sidebar improvements,2023-05-23 04:27:21,https://github.com/StreamSG/ABCWorkshop/pull/38
+HinanoOno/template-ph3-website,1,Feature/1,2023-06-11 07:39:34,https://github.com/HinanoOno/template-ph3-website/pull/1

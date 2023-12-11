@@ -1,0 +1,37 @@
+Repository,PR Number,PR Title,Created At,URL
+FlorianWoelki/obsidian-symbols-prettifier,7,Fix constructor being converted to undefined,2023-08-23 14:17:59,https://github.com/FlorianWoelki/obsidian-symbols-prettifier/pull/7
+mlc-ai/web-stable-diffusion,52,Add history view with downloads to demo application,2023-08-30 20:38:54,https://github.com/mlc-ai/web-stable-diffusion/pull/52
+metaphorsystems/metaphor-python,5,fixed incorrect description of type arg in metaphor.search,2023-08-26 21:17:35,https://github.com/metaphorsystems/metaphor-python/pull/5
+MikaelJG/textract,1,"feat: add keywords support, and more",2023-08-28 18:31:02,https://github.com/MikaelJG/textract/pull/1
+plantoncloud/kube-client-go-aws-credential-plugin,1,implemented functionality to generate credentials,2023-08-30 09:42:03,https://github.com/plantoncloud/kube-client-go-aws-credential-plugin/pull/1
+dantebarbieri/pi-picture-frame,3,Add code from ChatGPT,2023-07-11 02:57:45,https://github.com/dantebarbieri/pi-picture-frame/pull/3
+chitalian/gptask,2,Fix: recursive/glob support,2023-07-24 18:09:25,https://github.com/chitalian/gptask/pull/2
+bancaditalia/black-it,58,Add simple working example of basic TCN / MomentNetwork structure,2023-07-10 13:57:17,https://github.com/bancaditalia/black-it/pull/58
+AGnias47/AGnias47.github.io,2,Chatgpt,2023-06-12 00:45:42,https://github.com/AGnias47/AGnias47.github.io/pull/2
+mcagov/beacons,539,Edit account holder,2023-07-06 09:29:10,https://github.com/mcagov/beacons/pull/539
+hoshotakamoto/banzukesurfing,1,Create index.html,2023-07-01 18:29:36,https://github.com/hoshotakamoto/banzukesurfing/pull/1
+hoshotakamoto/banzukesurfing,2,Create game.js,2023-07-01 18:33:31,https://github.com/hoshotakamoto/banzukesurfing/pull/2
+hoshotakamoto/banzukesurfing,3,Unit Test Setup: jest,2023-07-03 06:44:40,https://github.com/hoshotakamoto/banzukesurfing/pull/3
+hoshotakamoto/banzukesurfing,4,Incorporate local storage to put some state in the game.,2023-07-03 06:57:07,https://github.com/hoshotakamoto/banzukesurfing/pull/4
+hoshotakamoto/banzukesurfing,5,Addressing module not defined error in browser.,2023-07-03 15:59:32,https://github.com/hoshotakamoto/banzukesurfing/pull/5
+hoshotakamoto/banzukesurfing,6,Update index.html,2023-07-03 16:29:16,https://github.com/hoshotakamoto/banzukesurfing/pull/6
+hoshotakamoto/banzukesurfing,7,Add more stuff to look at.,2023-07-03 18:44:13,https://github.com/hoshotakamoto/banzukesurfing/pull/7
+hoshotakamoto/banzukesurfing,8,Refactoring for interactivity.,2023-07-03 20:12:31,https://github.com/hoshotakamoto/banzukesurfing/pull/8
+hoshotakamoto/banzukesurfing,9,Set up npm test in a github action.,2023-07-04 20:15:49,https://github.com/hoshotakamoto/banzukesurfing/pull/9
+hoshotakamoto/banzukesurfing,10,Deploy the HTML on pull requests.,2023-07-04 20:54:51,https://github.com/hoshotakamoto/banzukesurfing/pull/10
+hoshotakamoto/banzukesurfing,11,Get backfilledResults to show non-empty.,2023-07-04 21:34:57,https://github.com/hoshotakamoto/banzukesurfing/pull/11
+hoshotakamoto/banzukesurfing,12,Create user.js and user.test.js,2023-07-04 22:07:17,https://github.com/hoshotakamoto/banzukesurfing/pull/12
+hoshotakamoto/banzukesurfing,13,Move switchUser over to user.js and test it.,2023-07-04 22:17:32,https://github.com/hoshotakamoto/banzukesurfing/pull/13
+hoshotakamoto/banzukesurfing,14,Integrate the new user.js into game.js and dedupe logic.,2023-07-04 22:30:52,https://github.com/hoshotakamoto/banzukesurfing/pull/14
+hoshotakamoto/banzukesurfing,15,Display full localStorage instead of 1 user.,2023-07-04 23:04:26,https://github.com/hoshotakamoto/banzukesurfing/pull/15
+hoshotakamoto/banzukesurfing,16,Better object model - add wave.js and basho.js,2023-07-05 04:37:54,https://github.com/hoshotakamoto/banzukesurfing/pull/16
+hoshotakamoto/banzukesurfing,17,Create pick.js,2023-07-05 17:51:37,https://github.com/hoshotakamoto/banzukesurfing/pull/17
+hoshotakamoto/banzukesurfing,18,Set up wave portal.,2023-07-05 18:06:11,https://github.com/hoshotakamoto/banzukesurfing/pull/18
+VOICEVOX/pyopenjtalk,18,BLD: ビルド時に使用するcythonバージョンを制限する,2023-07-18 10:09:33,https://github.com/VOICEVOX/pyopenjtalk/pull/18
+Wissididom/Bonbon-Reminder-StreamElements,1,Migrate to use StreamElements IDs in `.env` instead of twitch loginnames,2023-05-04 13:18:45,https://github.com/Wissididom/Bonbon-Reminder-StreamElements/pull/1
+FixMyBerlin/atlas-app,45,Add OSM Notes Layer,2023-08-14 07:32:55,https://github.com/FixMyBerlin/atlas-app/pull/45
+laravel-json-api/core,12,Feat/matches ids ulid,2023-07-13 15:37:41,https://github.com/laravel-json-api/core/pull/12
+jefftriplett/frontmatter-cli,6,Support deep frontmatter property setting using pydash,2023-06-08 13:41:47,https://github.com/jefftriplett/frontmatter-cli/pull/6
+ryoikegata/template-ph3-website,1,Add:環境構築,2023-06-11 01:27:42,https://github.com/ryoikegata/template-ph3-website/pull/1
+StreamSG/ABCWorkshop,38,Feature/header sidebar improvements,2023-05-23 04:27:21,https://github.com/StreamSG/ABCWorkshop/pull/38
+HinanoOno/template-ph3-website,1,Feature/1,2023-06-11 07:39:34,https://github.com/HinanoOno/template-ph3-website/pull/1
