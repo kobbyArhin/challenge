@@ -30,7 +30,7 @@ import csv
 from collections import Counter
 
 #%%
-g = Github("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")
+g = Github("YOUR_TOKEN_HERE")
 
 #%%
 repositories = []
