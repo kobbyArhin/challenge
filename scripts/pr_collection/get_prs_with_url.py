@@ -73,22 +73,8 @@ def get_pr_data_from_github(tokens, repo_name, pr_number):
         return get_pr_data_from_github(tokens, repo_name, pr_number)
 
 #%%
-#token = "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"
 tokens = [
-  "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",
-  "697c02632eb9f5581cd4fa779b5d94fd1e17f9dd",
-  "909d36554b0a100bd67aa015043a3bfdda204787",
-  "abcb07a9313a5a35252f40b45c0c0925faf5382f",
-  "b0d39324fdc328b80bc3f8b0208f0ceb36d3f4c9",
-  "0bb33610af9429689a26a38f0c15cbfe3cda84c6",
-  "c136be5e86eacd3cceb265b2295ac98fd694abf4",
-  "0bd22a288baaa4c1ef21182d08a078439a371046",
-  "384df09171c7e7cda3e90d34e2ecd7d8dfa4bd63",
-  "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",
-  "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",
-  "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",
-  "010331afa1fc53a51378b2e31a08f786f23f5b4b",
-  "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"
+  "YOUR_TOKEN_HERE"
 ]
 current_token_index = 0
 pr_data_list = []
