@@ -144,7 +144,7 @@ def get_pr_data_from_github(tokens, repo_name, pr_number):
 
 #%%
 tokens = [
-  "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"
+  "YOUR_TOKEN_HERE"
 ]
 
 #%%
