@@ -98,7 +98,7 @@ def update_json_data(github_token, json_file_path):
 
 
 #%%
-YOUR_GITHUB_TOKEN = "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"
+YOUR_GITHUB_TOKEN = "YOUR_TOKEN_HERE"
 JSON_FILE_PATH = "../../snapshot_20230831/20230831_060603_pr_sharings.json"
 
 #%%
