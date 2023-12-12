@@ -4,7 +4,7 @@ from datetime import datetime
 import csv
 
 #%%
-g = Github("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")
+g = Github("YOUR_TOKEN_HERE")
 
 #%%
 with open('../data/sampling_issue.csv', mode='r') as file:
