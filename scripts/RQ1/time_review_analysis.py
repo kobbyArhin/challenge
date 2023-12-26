@@ -35,7 +35,7 @@ import statistics
 import scipy.stats as stats
 from cliffs_delta import cliffs_delta
 
-#%% Function to remove 'Z' if present in datetime string
+#%% Function to remove 'Z' if present in datetime string to avoid error
 def remove_Z_if_present(datetime_str):
     return datetime_str[:-1] if datetime_str.endswith('Z') else datetime_str
 
@@ -92,7 +92,7 @@ def visualize_review_times_by_category(review_times_with_category, save_path):
     data_to_plot = {category: [] for category in categories}
 
     for time, category in review_times_with_category:
-        hours = time.total_seconds() / 3600  # Calculate time in hours
+        hours = time.total_seconds() / 3600  
         data_to_plot[category].append(hours)
 
     averages = {cat: np.mean(vals) for cat, vals in data_to_plot.items()}
@@ -127,6 +127,7 @@ def visualize_combined_review_times(chatgpt_review_times, no_chatgpt_review_time
     no_chatgpt_hours = [t.total_seconds() / 3600 for t in non_chatgpt_times]
 
     data_to_plot = [chatgpt_hours, no_chatgpt_hours]
+    offset = 50
 
     fig, ax = plt.subplots(figsize=(6, 4))
     sns.violinplot(data=data_to_plot, ax=ax, inner=None)
@@ -136,8 +137,8 @@ def visualize_combined_review_times(chatgpt_review_times, no_chatgpt_review_time
     positions = range(len(data_to_plot))
 
     for pos, mean, median in zip(positions, means, medians):
-        ax.text(pos, mean, f'Mean: {mean:.2f}', horizontalalignment='center', size='small', color='black', weight='semibold')
-        ax.text(pos, median, f'Median: {median:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
+        ax.text(pos, mean - offset, f'Mean: {mean:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
+        ax.text(pos, median - offset, f'Median: {median:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
 
     ax.set_xticklabels(['ChatGPT-Generated PRs', 'Human-Generated PRs'])
     ax.set_ylabel('Time to First Response (Hours)')

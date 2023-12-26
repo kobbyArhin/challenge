@@ -62,7 +62,7 @@ def process_data(json_path):
 
 #%% 
 def plot_merge_times(chatgpt_times, non_chatgpt_times, plot_path):
-    fig, ax = plt.subplots(figsize=(6.25, 3.75))
+    fig, ax = plt.subplots(figsize=(6, 4))
     data = [chatgpt_times, non_chatgpt_times]
     sns.violinplot(data=data, ax=ax, inner=None)
 
@@ -70,9 +70,11 @@ def plot_merge_times(chatgpt_times, non_chatgpt_times, plot_path):
     medians = [np.median(times) for times in data]
     positions = range(len(data))
 
+    offset = 120
+
     for pos, mean, median in zip(positions, means, medians):
-        ax.text(pos, mean, f'Mean: {mean:.2f}', horizontalalignment='center', size='small', color='black', weight='semibold')
-        ax.text(pos, median, f'Median: {median:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
+        ax.text(pos, mean - offset, f'Mean: {mean:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
+        ax.text(pos, median - offset, f'Median: {median:.2f}', horizontalalignment='center', size='small', color='white', weight='semibold')
 
     ax.set_xticklabels(['ChatGPT PRs', 'Non-ChatGPT PRs'])
     ax.set_ylabel('Merge Time (Hours)')
